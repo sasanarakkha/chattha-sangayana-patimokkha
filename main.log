@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  13 JUL 2022 17:19
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.3.26)  13 JUL 2022 17:49
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1990,9 +1990,12 @@ Writing note file main.ent
 LaTeX Warning: Unused global option(s):
     [babelLanguage,desktopVersion].
 
-No file main.aux.
-
+(./main.aux
+\c@pagesLTS.roman.1.local.cnt=\count451
+\c@pagesLTS.arabic.1.local.cnt=\count452
+)
 \openout1 = main.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
 LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
@@ -2004,7 +2007,7 @@ LaTeX Font Info:    ... okay on input line 55.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 5.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 55.
@@ -2045,16 +2048,16 @@ LaTeX Font Info:    ... okay on input line 55.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count451
+\scratchcounter=\count453
 \scratchdimen=\dimen385
 \scratchbox=\box155
-\nofMPsegments=\count452
-\nofMParguments=\count453
+\nofMPsegments=\count454
+\nofMParguments=\count455
 \everyMPshowfont=\toks62
-\MPscratchCnt=\count454
+\MPscratchCnt=\count456
 \MPscratchDim=\dimen386
-\MPnumerator=\count455
-\makeMPintoPDFobject=\count456
+\MPnumerator=\count457
+\makeMPintoPDFobject=\count458
 \everyMPtoPDFconversion=\toks63
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -2166,7 +2169,7 @@ Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count457
+\c@section@level=\count459
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -2174,9 +2177,9 @@ LaTeX Info: Redefining \nameref on input line 55.
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
-\c@pagesLTS.pnc.roman=\count458
-\c@pagesLTS.double.roman=\count459
-\c@pagesLTS.current.local.roman=\count460
+\c@pagesLTS.pnc.roman=\count460
+\c@pagesLTS.double.roman=\count461
+\c@pagesLTS.current.local.roman=\count462
 
 warning  (file ./front-cover-compressed.jpg) (readjpg): Exif resolution 300dpi x
  300dpi differs from the input resolution 72dpi x 72dpi
@@ -2335,18 +2338,25 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13.29994> not available
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <9.5> not available
 (Font)              size <9> substituted on input line 73.
 
-[4
+(./main.toc [4
 
 ]
-\c@pagesLTS.roman.1.local.count=\count461
-\c@pagesLTS.pnc.arabic=\count462
-\c@pagesLTS.double.arabic=\count463
-\c@pagesLTS.current.local.arabic=\count464
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 56.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 56.
+
+[5]) [6]
+\c@pagesLTS.roman.1.local.count=\count463
+\c@pagesLTS.pnc.arabic=\count464
+\c@pagesLTS.double.arabic=\count465
+\c@pagesLTS.current.local.arabic=\count466
  (./manuscript/tex/pali/pubbakicca.tex
 warning  (file ./assets/photos/300dpi//appendix-compressed.jpg) (readjpg): Exif 
 resolution 300dpi x 300dpi differs from the input resolution 72dpi x 72dpi
-<./assets/photos/300dpi//appendix-compressed.jpg, id=33, 421.0932pt x 597.432pt
->
+<./assets/photos/300dpi//appendix-compressed.jpg, id=257, 421.0932pt x 597.432p
+t>
 File: ./assets/photos/300dpi//appendix-compressed.jpg Graphic file (type jpg)
 <use ./assets/photos/300dpi//appendix-compressed.jpg>
 Package luatex.def Info: ./assets/photos/300dpi//appendix-compressed.jpg  used 
@@ -2372,14 +2382,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.49995> not available
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 28.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 28.
-
-[2
+88.pgf) [2
 
 ]) (./manuscript/tex/pali/nidan'uddeso.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
@@ -2387,793 +2390,38 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 
 ]) (./manuscript/tex/pali/parajika.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `disq1' on page 4 undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `disq2' on page 4 undefined on input line 15.
-
-
-LaTeX Warning: Hyper reference `disq3' on page 4 undefined on input line 20.
-
-
-LaTeX Warning: Hyper reference `disq4' on page 4 undefined on input line 25.
-
-[4
+88.pgf) [4
 
 ] [5]) (./manuscript/tex/pali/sanghadisesa.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [6
 
-LaTeX Warning: Hyper reference `comm1' on page 6 undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `comm2' on page 6 undefined on input line 15.
-
-
-LaTeX Warning: Hyper reference `comm3' on page 6 undefined on input line 20.
-
-
-LaTeX Warning: Hyper reference `comm4' on page 6 undefined on input line 25.
-
-
-LaTeX Warning: Hyper reference `comm5' on page 6 undefined on input line 30.
-
-
-LaTeX Warning: Hyper reference `comm6' on page 6 undefined on input line 35.
-
-[6
-
-]
-
-LaTeX Warning: Hyper reference `comm7' on page 7 undefined on input line 40.
-
-
-LaTeX Warning: Hyper reference `comm8' on page 7 undefined on input line 45.
-
-
-LaTeX Warning: Hyper reference `comm9' on page 7 undefined on input line 50.
-
-[7]
-
-LaTeX Warning: Hyper reference `comm10' on page 8 undefined on input line 55.
-
-
-LaTeX Warning: Hyper reference `comm11' on page 8 undefined on input line 60.
-
-[8]
-
-LaTeX Warning: Hyper reference `comm12' on page 9 undefined on input line 65.
-
-
-LaTeX Warning: Hyper reference `comm13' on page 9 undefined on input line 70.
-
-[9] [10] [11]) (./manuscript/tex/pali/aniyata.tex
+] [7] [8] [9] [10] [11]) (./manuscript/tex/pali/aniyata.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `unc1' on page 12 undefined on input line 9.
-
-
-LaTeX Warning: Hyper reference `unc2' on page 12 undefined on input line 14.
-
-[12
+88.pgf) [12
 
 ] [13]) (./manuscript/tex/pali/nissaggiya-pacittiya.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [14
 
-LaTeX Warning: Hyper reference `forf-exp1' on page 14 undefined on input line 1
-3.
-
-
-LaTeX Warning: Hyper reference `forf-exp2' on page 14 undefined on input line 1
-8.
-
-
-LaTeX Warning: Hyper reference `forf-exp3' on page 14 undefined on input line 2
-3.
-
-
-LaTeX Warning: Hyper reference `forf-exp4' on page 14 undefined on input line 2
-8.
-
-
-LaTeX Warning: Hyper reference `forf-exp5' on page 14 undefined on input line 3
-3.
-
-[14
-
-]
-
-LaTeX Warning: Hyper reference `forf-exp6' on page 15 undefined on input line 3
-8.
-
-
-LaTeX Warning: Hyper reference `forf-exp7' on page 15 undefined on input line 4
-3.
-
-
-LaTeX Warning: Hyper reference `forf-exp8' on page 15 undefined on input line 4
-8.
-
-
-LaTeX Warning: Hyper reference `forf-exp9' on page 15 undefined on input line 5
-3.
-
-[15]
-
-LaTeX Warning: Hyper reference `forf-exp10' on page 16 undefined on input line 
-58.
-
-[16]
-
-LaTeX Warning: Hyper reference `forf-exp11' on page 17 undefined on input line 
-70.
-
-
-LaTeX Warning: Hyper reference `forf-exp12' on page 17 undefined on input line 
-75.
-
-
-LaTeX Warning: Hyper reference `forf-exp13' on page 17 undefined on input line 
-80.
-
-[17]
-
-LaTeX Warning: Hyper reference `forf-exp14' on page 18 undefined on input line 
-85.
-
-
-LaTeX Warning: Hyper reference `forf-exp15' on page 18 undefined on input line 
-90.
-
-
-LaTeX Warning: Hyper reference `forf-exp16' on page 18 undefined on input line 
-95.
-
-
-LaTeX Warning: Hyper reference `forf-exp17' on page 18 undefined on input line 
-100.
-
-
-LaTeX Warning: Hyper reference `forf-exp18' on page 18 undefined on input line 
-105.
-
-[18]
-
-LaTeX Warning: Hyper reference `forf-exp19' on page 19 undefined on input line 
-110.
-
-
-LaTeX Warning: Hyper reference `forf-exp20' on page 19 undefined on input line 
-115.
-
-
-LaTeX Warning: Hyper reference `forf-exp21' on page 19 undefined on input line 
-127.
-
-
-LaTeX Warning: Hyper reference `forf-exp22' on page 19 undefined on input line 
-132.
-
-
-LaTeX Warning: Hyper reference `forf-exp23' on page 19 undefined on input line 
-137.
-
-
-LaTeX Warning: Hyper reference `forf-exp24' on page 19 undefined on input line 
-142.
-
-[19]
-
-LaTeX Warning: Hyper reference `forf-exp25' on page 20 undefined on input line 
-147.
-
-
-LaTeX Warning: Hyper reference `forf-exp26' on page 20 undefined on input line 
-152.
-
-
-LaTeX Warning: Hyper reference `forf-exp27' on page 20 undefined on input line 
-157.
-
-
-LaTeX Warning: Hyper reference `forf-exp28' on page 20 undefined on input line 
-162.
-
-[20]
-
-LaTeX Warning: Hyper reference `forf-exp29' on page 21 undefined on input line 
-167.
-
-
-LaTeX Warning: Hyper reference `forf-exp30' on page 21 undefined on input line 
-172.
-
-[21]) (./manuscript/tex/pali/pacittiya.tex
+] [15] [16] [17] [18] [19] [20] [21])
+(./manuscript/tex/pali/pacittiya.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [22
 
-LaTeX Warning: Hyper reference `exp1' on page 22 undefined on input line 12.
-
-
-LaTeX Warning: Hyper reference `exp2' on page 22 undefined on input line 18.
-
-
-LaTeX Warning: Hyper reference `exp3' on page 22 undefined on input line 24.
-
-
-LaTeX Warning: Hyper reference `exp4' on page 22 undefined on input line 30.
-
-
-LaTeX Warning: Hyper reference `exp5' on page 22 undefined on input line 36.
-
-
-LaTeX Warning: Hyper reference `exp6' on page 22 undefined on input line 42.
-
-
-LaTeX Warning: Hyper reference `exp7' on page 22 undefined on input line 48.
-
-
-LaTeX Warning: Hyper reference `exp8' on page 22 undefined on input line 54.
-
-[22
-
-]
-
-LaTeX Warning: Hyper reference `exp9' on page 23 undefined on input line 60.
-
-
-LaTeX Warning: Hyper reference `exp10' on page 23 undefined on input line 66.
-
-
-LaTeX Warning: Hyper reference `exp11' on page 23 undefined on input line 79.
-
-
-LaTeX Warning: Hyper reference `exp12' on page 23 undefined on input line 85.
-
-
-LaTeX Warning: Hyper reference `exp13' on page 23 undefined on input line 91.
-
-
-LaTeX Warning: Hyper reference `exp14' on page 23 undefined on input line 97.
-
-
-LaTeX Warning: Hyper reference `exp15' on page 23 undefined on input line 103.
-
-[23]
-
-LaTeX Warning: Hyper reference `exp16' on page 24 undefined on input line 109.
-
-
-LaTeX Warning: Hyper reference `exp17' on page 24 undefined on input line 115.
-
-
-LaTeX Warning: Hyper reference `exp18' on page 24 undefined on input line 121.
-
-
-LaTeX Warning: Hyper reference `exp19' on page 24 undefined on input line 127.
-
-
-LaTeX Warning: Hyper reference `exp20' on page 24 undefined on input line 133.
-
-[24]
-
-LaTeX Warning: Hyper reference `exp' on page 25 undefined on input line 146.
-
-
-LaTeX Warning: Hyper reference `exp22' on page 25 undefined on input line 152.
-
-
-LaTeX Warning: Hyper reference `exp23' on page 25 undefined on input line 158.
-
-
-LaTeX Warning: Hyper reference `exp24' on page 25 undefined on input line 164.
-
-
-LaTeX Warning: Hyper reference `exp25' on page 25 undefined on input line 170.
-
-
-LaTeX Warning: Hyper reference `exp26' on page 25 undefined on input line 176.
-
-
-LaTeX Warning: Hyper reference `exp27' on page 25 undefined on input line 182.
-
-[25]
-
-LaTeX Warning: Hyper reference `exp28' on page 26 undefined on input line 188.
-
-
-LaTeX Warning: Hyper reference `exp29' on page 26 undefined on input line 194.
-
-
-LaTeX Warning: Hyper reference `exp30' on page 26 undefined on input line 200.
-
-
-LaTeX Warning: Hyper reference `exp31' on page 26 undefined on input line 213.
-
-
-LaTeX Warning: Hyper reference `exp32' on page 26 undefined on input line 219.
-
-
-LaTeX Warning: Hyper reference `exp33' on page 26 undefined on input line 225.
-
-[26
+] [23] [24] [25] [26
 warning  (pdf backend): ignoring duplicate destination with the name 'pac31.3'
-]
-
-LaTeX Warning: Hyper reference `exp34' on page 27 undefined on input line 231.
-
-
-LaTeX Warning: Hyper reference `exp35' on page 27 undefined on input line 237.
-
-
-LaTeX Warning: Hyper reference `exp36' on page 27 undefined on input line 243.
-
-
-LaTeX Warning: Hyper reference `exp37' on page 27 undefined on input line 249.
-
-
-LaTeX Warning: Hyper reference `exp38' on page 27 undefined on input line 255.
-
-[27]
-
-LaTeX Warning: Hyper reference `exp39' on page 28 undefined on input line 261.
-
-
-LaTeX Warning: Hyper reference `exp40' on page 28 undefined on input line 267.
-
-
-LaTeX Warning: Hyper reference `exp41' on page 28 undefined on input line 280.
-
-
-LaTeX Warning: Hyper reference `exp42' on page 28 undefined on input line 286.
-
-
-LaTeX Warning: Hyper reference `exp43' on page 28 undefined on input line 292.
-
-
-LaTeX Warning: Hyper reference `exp44' on page 28 undefined on input line 298.
-
-[28]
-
-LaTeX Warning: Hyper reference `exp45' on page 29 undefined on input line 304.
-
-
-LaTeX Warning: Hyper reference `exp46' on page 29 undefined on input line 310.
-
-
-LaTeX Warning: Hyper reference `exp47' on page 29 undefined on input line 316.
-
-
-LaTeX Warning: Hyper reference `exp48' on page 29 undefined on input line 322.
-
-
-LaTeX Warning: Hyper reference `exp49' on page 29 undefined on input line 328.
-
-
-LaTeX Warning: Hyper reference `exp50' on page 29 undefined on input line 334.
-
-[29]
-
-LaTeX Warning: Hyper reference `exp51' on page 30 undefined on input line 347.
-
-
-LaTeX Warning: Hyper reference `exp52' on page 30 undefined on input line 353.
-
-
-LaTeX Warning: Hyper reference `exp53' on page 30 undefined on input line 359.
-
-
-LaTeX Warning: Hyper reference `exp54' on page 30 undefined on input line 365.
-
-
-LaTeX Warning: Hyper reference `exp55' on page 30 undefined on input line 371.
-
-
-LaTeX Warning: Hyper reference `exp56' on page 30 undefined on input line 377.
-
-
-LaTeX Warning: Hyper reference `exp57' on page 30 undefined on input line 383.
-
-[30]
-
-LaTeX Warning: Hyper reference `exp58' on page 31 undefined on input line 389.
-
-
-LaTeX Warning: Hyper reference `exp59' on page 31 undefined on input line 395.
-
-
-LaTeX Warning: Hyper reference `exp60' on page 31 undefined on input line 401.
-
-
-LaTeX Warning: Hyper reference `exp61' on page 31 undefined on input line 414.
-
-
-LaTeX Warning: Hyper reference `exp62' on page 31 undefined on input line 420.
-
-[31]
-
-LaTeX Warning: Hyper reference `exp63' on page 32 undefined on input line 426.
-
-
-LaTeX Warning: Hyper reference `exp64' on page 32 undefined on input line 432.
-
-
-LaTeX Warning: Hyper reference `exp65' on page 32 undefined on input line 438.
-
-
-LaTeX Warning: Hyper reference `exp66' on page 32 undefined on input line 444.
-
-
-LaTeX Warning: Hyper reference `exp67' on page 32 undefined on input line 450.
-
-
-LaTeX Warning: Hyper reference `exp68' on page 32 undefined on input line 456.
-
-[32]
-
-LaTeX Warning: Hyper reference `exp69' on page 33 undefined on input line 462.
-
-
-LaTeX Warning: Hyper reference `exp70' on page 33 undefined on input line 468.
-
-[33]
-
-LaTeX Warning: Hyper reference `exp71' on page 34 undefined on input line 481.
-
-
-LaTeX Warning: Hyper reference `exp72' on page 34 undefined on input line 487.
-
-
-LaTeX Warning: Hyper reference `exp73' on page 34 undefined on input line 493.
-
-
-LaTeX Warning: Hyper reference `exp74' on page 34 undefined on input line 499.
-
-[34]
-
-LaTeX Warning: Hyper reference `exp75' on page 35 undefined on input line 505.
-
-
-LaTeX Warning: Hyper reference `exp76' on page 35 undefined on input line 511.
-
-
-LaTeX Warning: Hyper reference `exp77' on page 35 undefined on input line 517.
-
-
-LaTeX Warning: Hyper reference `exp78' on page 35 undefined on input line 523.
-
-
-LaTeX Warning: Hyper reference `exp79' on page 35 undefined on input line 529.
-
-
-LaTeX Warning: Hyper reference `exp80' on page 35 undefined on input line 535.
-
-[35]
-
-LaTeX Warning: Hyper reference `exp81' on page 36 undefined on input line 541.
-
-
-LaTeX Warning: Hyper reference `exp82' on page 36 undefined on input line 547.
-
-
-LaTeX Warning: Hyper reference `exp83' on page 36 undefined on input line 560.
-
-
-LaTeX Warning: Hyper reference `exp84' on page 36 undefined on input line 566.
-
-
-LaTeX Warning: Hyper reference `exp85' on page 36 undefined on input line 572.
-
-
-LaTeX Warning: Hyper reference `exp86' on page 36 undefined on input line 578.
-
-[36]
-
-LaTeX Warning: Hyper reference `exp87' on page 37 undefined on input line 584.
-
-
-LaTeX Warning: Hyper reference `exp88' on page 37 undefined on input line 590.
-
-
-LaTeX Warning: Hyper reference `exp89' on page 37 undefined on input line 596.
-
-
-LaTeX Warning: Hyper reference `exp90' on page 37 undefined on input line 602.
-
-
-LaTeX Warning: Hyper reference `exp91' on page 37 undefined on input line 608.
-
-[37]
-
-LaTeX Warning: Hyper reference `exp92' on page 38 undefined on input line 614.
-
-[38]) (./manuscript/tex/pali/patidesaniya.tex
+] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38])
+(./manuscript/tex/pali/patidesaniya.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `ack1' on page 39 undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `ack2' on page 39 undefined on input line 16.
-
-
-LaTeX Warning: Hyper reference `ack3' on page 39 undefined on input line 22.
-
-
-LaTeX Warning: Hyper reference `ack4' on page 39 undefined on input line 28.
-
-[39
+88.pgf) [39
 
 ] [40]) (./manuscript/tex/pali/sekhiya.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [41
 
-LaTeX Warning: Hyper reference `training1-2' on page 41 undefined on input line
- 13.
-
-
-LaTeX Warning: Hyper reference `training3-4' on page 41 undefined on input line
- 19.
-
-
-LaTeX Warning: Hyper reference `training5-6' on page 41 undefined on input line
- 25.
-
-
-LaTeX Warning: Hyper reference `training7-8' on page 41 undefined on input line
- 31.
-
-
-LaTeX Warning: Hyper reference `training9-10' on page 41 undefined on input lin
-e 37.
-
-
-LaTeX Warning: Hyper reference `training11-12' on page 41 undefined on input li
-ne 50.
-
-[41
-
-]
-
-LaTeX Warning: Hyper reference `training13-14' on page 42 undefined on input li
-ne 56.
-
-
-LaTeX Warning: Hyper reference `training15-16' on page 42 undefined on input li
-ne 62.
-
-
-LaTeX Warning: Hyper reference `training17-18' on page 42 undefined on input li
-ne 68.
-
-
-LaTeX Warning: Hyper reference `training19-20' on page 42 undefined on input li
-ne 74.
-
-
-LaTeX Warning: Hyper reference `training21-22' on page 42 undefined on input li
-ne 87.
-
-
-LaTeX Warning: Hyper reference `training23-24' on page 42 undefined on input li
-ne 93.
-
-
-LaTeX Warning: Hyper reference `training25' on page 42 undefined on input line 
-99.
-
-[42]
-
-LaTeX Warning: Hyper reference `training26' on page 43 undefined on input line 
-104.
-
-
-LaTeX Warning: Hyper reference `training27' on page 43 undefined on input line 
-109.
-
-
-LaTeX Warning: Hyper reference `training28' on page 43 undefined on input line 
-114.
-
-
-LaTeX Warning: Hyper reference `training29' on page 43 undefined on input line 
-119.
-
-
-LaTeX Warning: Hyper reference `training30' on page 43 undefined on input line 
-124.
-
-
-LaTeX Warning: Hyper reference `training31' on page 43 undefined on input line 
-136.
-
-
-LaTeX Warning: Hyper reference `training32' on page 43 undefined on input line 
-141.
-
-
-LaTeX Warning: Hyper reference `training33' on page 43 undefined on input line 
-146.
-
-
-LaTeX Warning: Hyper reference `training34' on page 43 undefined on input line 
-151.
-
-[43]
-
-LaTeX Warning: Hyper reference `training35' on page 44 undefined on input line 
-156.
-
-
-LaTeX Warning: Hyper reference `training36' on page 44 undefined on input line 
-161.
-
-
-LaTeX Warning: Hyper reference `training37' on page 44 undefined on input line 
-166.
-
-
-LaTeX Warning: Hyper reference `training38' on page 44 undefined on input line 
-171.
-
-
-LaTeX Warning: Hyper reference `training39' on page 44 undefined on input line 
-176.
-
-
-LaTeX Warning: Hyper reference `training40' on page 44 undefined on input line 
-181.
-
-
-LaTeX Warning: Hyper reference `training41' on page 44 undefined on input line 
-193.
-
-
-LaTeX Warning: Hyper reference `training42' on page 44 undefined on input line 
-198.
-
-[44]
-
-LaTeX Warning: Hyper reference `training43' on page 45 undefined on input line 
-203.
-
-
-LaTeX Warning: Hyper reference `training44' on page 45 undefined on input line 
-208.
-
-
-LaTeX Warning: Hyper reference `training45' on page 45 undefined on input line 
-213.
-
-
-LaTeX Warning: Hyper reference `training46' on page 45 undefined on input line 
-218.
-
-
-LaTeX Warning: Hyper reference `training47' on page 45 undefined on input line 
-223.
-
-
-LaTeX Warning: Hyper reference `training48' on page 45 undefined on input line 
-228.
-
-
-LaTeX Warning: Hyper reference `training49' on page 45 undefined on input line 
-233.
-
-
-LaTeX Warning: Hyper reference `training50' on page 45 undefined on input line 
-238.
-
-
-LaTeX Warning: Hyper reference `training51' on page 45 undefined on input line 
-250.
-
-[45]
-
-LaTeX Warning: Hyper reference `training52' on page 46 undefined on input line 
-255.
-
-
-LaTeX Warning: Hyper reference `training53' on page 46 undefined on input line 
-260.
-
-
-LaTeX Warning: Hyper reference `training54' on page 46 undefined on input line 
-265.
-
-
-LaTeX Warning: Hyper reference `training55' on page 46 undefined on input line 
-270.
-
-
-LaTeX Warning: Hyper reference `training56' on page 46 undefined on input line 
-275.
-
-
-LaTeX Warning: Hyper reference `training57' on page 46 undefined on input line 
-280.
-
-
-LaTeX Warning: Hyper reference `training58' on page 46 undefined on input line 
-285.
-
-
-LaTeX Warning: Hyper reference `training59' on page 46 undefined on input line 
-290.
-
-[46]
-
-LaTeX Warning: Hyper reference `training60' on page 47 undefined on input line 
-295.
-
-
-LaTeX Warning: Hyper reference `training61' on page 47 undefined on input line 
-307.
-
-
-LaTeX Warning: Hyper reference `training62' on page 47 undefined on input line 
-312.
-
-
-LaTeX Warning: Hyper reference `training63' on page 47 undefined on input line 
-317.
-
-
-LaTeX Warning: Hyper reference `training64' on page 47 undefined on input line 
-322.
-
-
-LaTeX Warning: Hyper reference `training65' on page 47 undefined on input line 
-327.
-
-
-LaTeX Warning: Hyper reference `training66' on page 47 undefined on input line 
-332.
-
-[47]
-
-LaTeX Warning: Hyper reference `training67' on page 48 undefined on input line 
-337.
-
-
-LaTeX Warning: Hyper reference `training68' on page 48 undefined on input line 
-342.
-
-
-LaTeX Warning: Hyper reference `training69' on page 48 undefined on input line 
-347.
-
-
-LaTeX Warning: Hyper reference `training70' on page 48 undefined on input line 
-352.
-
-
-LaTeX Warning: Hyper reference `training71' on page 48 undefined on input line 
-357.
-
-
-LaTeX Warning: Hyper reference `training72' on page 48 undefined on input line 
-362.
-
-
-LaTeX Warning: Hyper reference `training73' on page 48 undefined on input line 
-367.
-
-[48]
-
-LaTeX Warning: Hyper reference `training74' on page 49 undefined on input line 
-372.
-
-
-LaTeX Warning: Hyper reference `training75' on page 49 undefined on input line 
-377.
-
-[49]) (./manuscript/tex/pali/adhikaranasamatha.tex
+] [42] [43] [44] [45] [46] [47] [48] [49])
+(./manuscript/tex/pali/adhikaranasamatha.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
 88.pgf) [50
 
@@ -3201,772 +2449,38 @@ on input line 5.
 
 ] [57]) (./manuscript/tex/english/disqualifications.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `par1' on page 58 undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `par2' on page 58 undefined on input line 15.
-
-
-LaTeX Warning: Hyper reference `par3' on page 58 undefined on input line 20.
-
-
-LaTeX Warning: Hyper reference `par4' on page 58 undefined on input line 25.
-
-[58
+88.pgf) [58
 
 ] [59]) (./manuscript/tex/english/community-meetings.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [60
 
-LaTeX Warning: Hyper reference `sd1' on page 60 undefined on input line 9.
-
-
-LaTeX Warning: Hyper reference `sd2' on page 60 undefined on input line 14.
-
-
-LaTeX Warning: Hyper reference `sd3' on page 60 undefined on input line 19.
-
-
-LaTeX Warning: Hyper reference `sd4' on page 60 undefined on input line 24.
-
-[60
-
-]
-
-LaTeX Warning: Hyper reference `sd5' on page 61 undefined on input line 29.
-
-
-LaTeX Warning: Hyper reference `sd6' on page 61 undefined on input line 34.
-
-
-LaTeX Warning: Hyper reference `sd7' on page 61 undefined on input line 39.
-
-[61]
-
-LaTeX Warning: Hyper reference `sd8' on page 62 undefined on input line 44.
-
-
-LaTeX Warning: Hyper reference `sd9' on page 62 undefined on input line 49.
-
-[62]
-
-LaTeX Warning: Hyper reference `sd10' on page 63 undefined on input line 54.
-
-
-LaTeX Warning: Hyper reference `sd11' on page 63 undefined on input line 59.
-
-[63]
-
-LaTeX Warning: Hyper reference `sd12' on page 64 undefined on input line 64.
-
-[64]
-
-LaTeX Warning: Hyper reference `sd13' on page 65 undefined on input line 69.
-
-[65] [66] [67]) (./manuscript/tex/english/uncertain-cases.tex
+] [61] [62] [63] [64] [65] [66] [67])
+(./manuscript/tex/english/uncertain-cases.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `aniy1' on page 68 undefined on input line 9.
-
-
-LaTeX Warning: Hyper reference `aniy2' on page 68 undefined on input line 14.
-
-[68
+88.pgf) [68
 
 ] [69]) (./manuscript/tex/english/forfeiture-expiations.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [70
 
-LaTeX Warning: Hyper reference `np1' on page 70 undefined on input line 14.
-
-
-LaTeX Warning: Hyper reference `np2' on page 70 undefined on input line 19.
-
-
-LaTeX Warning: Hyper reference `np3' on page 70 undefined on input line 24.
-
-[70
-
-]
-
-LaTeX Warning: Hyper reference `np4' on page 71 undefined on input line 29.
-
-
-LaTeX Warning: Hyper reference `np5' on page 71 undefined on input line 34.
-
-
-LaTeX Warning: Hyper reference `np6' on page 71 undefined on input line 39.
-
-
-LaTeX Warning: Hyper reference `np7' on page 71 undefined on input line 44.
-
-[71]
-
-LaTeX Warning: Hyper reference `np8' on page 72 undefined on input line 49.
-
-
-LaTeX Warning: Hyper reference `np9' on page 72 undefined on input line 54.
-
-
-LaTeX Warning: Hyper reference `np10' on page 72 undefined on input line 59.
-
-[72] [73]
-
-LaTeX Warning: Hyper reference `np11' on page 74 undefined on input line 72.
-
-
-LaTeX Warning: Hyper reference `np12' on page 74 undefined on input line 77.
-
-
-LaTeX Warning: Hyper reference `np13' on page 74 undefined on input line 82.
-
-
-LaTeX Warning: Hyper reference `np14' on page 74 undefined on input line 87.
-
-[74]
-
-LaTeX Warning: Hyper reference `np15' on page 75 undefined on input line 92.
-
-
-LaTeX Warning: Hyper reference `np16' on page 75 undefined on input line 97.
-
-
-LaTeX Warning: Hyper reference `np17' on page 75 undefined on input line 102.
-
-
-LaTeX Warning: Hyper reference `np18' on page 75 undefined on input line 107.
-
-[75]
-
-LaTeX Warning: Hyper reference `np19' on page 76 undefined on input line 112.
-
-
-LaTeX Warning: Hyper reference `np20' on page 76 undefined on input line 117.
-
-
-LaTeX Warning: Hyper reference `np21' on page 76 undefined on input line 128.
-
-
-LaTeX Warning: Hyper reference `np22' on page 76 undefined on input line 133.
-
-[76]
-
-LaTeX Warning: Hyper reference `np23' on page 77 undefined on input line 138.
-
-
-LaTeX Warning: Hyper reference `np24' on page 77 undefined on input line 143.
-
-
-LaTeX Warning: Hyper reference `np25' on page 77 undefined on input line 148.
-
-
-LaTeX Warning: Hyper reference `np26' on page 77 undefined on input line 153.
-
-[77]
-
-LaTeX Warning: Hyper reference `np27' on page 78 undefined on input line 158.
-
-
-LaTeX Warning: Hyper reference `np28' on page 78 undefined on input line 163.
-
-
-LaTeX Warning: Hyper reference `np29' on page 78 undefined on input line 168.
-
-[78]
-
-LaTeX Warning: Hyper reference `np30' on page 79 undefined on input line 173.
-
-[79]) (./manuscript/tex/english/expiations.tex
+] [71] [72] [73] [74] [75] [76] [77] [78] [79])
+(./manuscript/tex/english/expiations.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
-
-LaTeX Warning: Hyper reference `pac1' on page 80 undefined on input line 13.
-
-
-LaTeX Warning: Hyper reference `pac2' on page 80 undefined on input line 18.
-
-
-LaTeX Warning: Hyper reference `pac3' on page 80 undefined on input line 23.
-
-
-LaTeX Warning: Hyper reference `pac4' on page 80 undefined on input line 28.
-
-
-LaTeX Warning: Hyper reference `pac5' on page 80 undefined on input line 33.
-
-
-LaTeX Warning: Hyper reference `pac6' on page 80 undefined on input line 38.
-
-[80
-
-]
-
-LaTeX Warning: Hyper reference `pac7' on page 81 undefined on input line 43.
-
-
-LaTeX Warning: Hyper reference `pac8' on page 81 undefined on input line 48.
-
-
-LaTeX Warning: Hyper reference `pac9' on page 81 undefined on input line 53.
-
-
-LaTeX Warning: Hyper reference `pac10' on page 81 undefined on input line 58.
-
-
-LaTeX Warning: Hyper reference `pac11' on page 81 undefined on input line 71.
-
-
-LaTeX Warning: Hyper reference `pac12' on page 81 undefined on input line 76.
-
-
-LaTeX Warning: Hyper reference `pac1' on page 81 undefined on input line 81.
-
-[81]
-
-LaTeX Warning: Hyper reference `pac14' on page 82 undefined on input line 86.
-
-
-LaTeX Warning: Hyper reference `pac15' on page 82 undefined on input line 91.
-
-
-LaTeX Warning: Hyper reference `pac16' on page 82 undefined on input line 96.
-
-
-LaTeX Warning: Hyper reference `pac17' on page 82 undefined on input line 101.
-
-[82]
-
-LaTeX Warning: Hyper reference `pac18' on page 83 undefined on input line 106.
-
-
-LaTeX Warning: Hyper reference `pac19' on page 83 undefined on input line 111.
-
-
-LaTeX Warning: Hyper reference `pac20' on page 83 undefined on input line 116.
-
-
-LaTeX Warning: Hyper reference `pac21' on page 83 undefined on input line 129.
-
-[83]
-
-LaTeX Warning: Hyper reference `pac22' on page 84 undefined on input line 134.
-
-
-LaTeX Warning: Hyper reference `pac23' on page 84 undefined on input line 139.
-
-
-LaTeX Warning: Hyper reference `pac24' on page 84 undefined on input line 144.
-
-
-LaTeX Warning: Hyper reference `pac25' on page 84 undefined on input line 149.
-
-
-LaTeX Warning: Hyper reference `pac26' on page 84 undefined on input line 154.
-
-
-LaTeX Warning: Hyper reference `pac27' on page 84 undefined on input line 159.
-
-[84]
-
-LaTeX Warning: Hyper reference `pac28' on page 85 undefined on input line 164.
-
-
-LaTeX Warning: Hyper reference `pac29' on page 85 undefined on input line 169.
-
-
-LaTeX Warning: Hyper reference `pac30' on page 85 undefined on input line 174.
-
-
-LaTeX Warning: Hyper reference `pac31' on page 85 undefined on input line 187.
-
-[85]
-
-LaTeX Warning: Hyper reference `pac32' on page 86 undefined on input line 192.
-
-
-LaTeX Warning: Hyper reference `pac33' on page 86 undefined on input line 197.
-
-
-LaTeX Warning: Hyper reference `pac34' on page 86 undefined on input line 202.
-
-
-LaTeX Warning: Hyper reference `pac35' on page 86 undefined on input line 207.
-
-[86]
-
-LaTeX Warning: Hyper reference `pac36' on page 87 undefined on input line 212.
-
-
-LaTeX Warning: Hyper reference `pac37' on page 87 undefined on input line 217.
-
-
-LaTeX Warning: Hyper reference `pac38' on page 87 undefined on input line 222.
-
-
-LaTeX Warning: Hyper reference `pac39' on page 87 undefined on input line 227.
-
-
-LaTeX Warning: Hyper reference `pac40' on page 87 undefined on input line 232.
-
-[87]
-
-LaTeX Warning: Hyper reference `pac41' on page 88 undefined on input line 245.
-
-
-LaTeX Warning: Hyper reference `pac42' on page 88 undefined on input line 250.
-
-
-LaTeX Warning: Hyper reference `pac43' on page 88 undefined on input line 255.
-
-
-LaTeX Warning: Hyper reference `pac44' on page 88 undefined on input line 260.
-
-
-LaTeX Warning: Hyper reference `pac45' on page 88 undefined on input line 265.
-
-[88]
-
-LaTeX Warning: Hyper reference `pac46' on page 89 undefined on input line 270.
-
-
-LaTeX Warning: Hyper reference `pac47' on page 89 undefined on input line 275.
-
-
-LaTeX Warning: Hyper reference `pac48' on page 89 undefined on input line 280.
-
-
-LaTeX Warning: Hyper reference `pac49' on page 89 undefined on input line 285.
-
-
-LaTeX Warning: Hyper reference `pac50' on page 89 undefined on input line 290.
-
-[89]
-
-LaTeX Warning: Hyper reference `pac51' on page 90 undefined on input line 301.
-
-
-LaTeX Warning: Hyper reference `pac52' on page 90 undefined on input line 306.
-
-
-LaTeX Warning: Hyper reference `pac53' on page 90 undefined on input line 311.
-
-
-LaTeX Warning: Hyper reference `pac54' on page 90 undefined on input line 316.
-
-
-LaTeX Warning: Hyper reference `pac55' on page 90 undefined on input line 321.
-
-
-LaTeX Warning: Hyper reference `pac56' on page 90 undefined on input line 326.
-
-
-LaTeX Warning: Hyper reference `pac57' on page 90 undefined on input line 331.
-
-[90]
-
-LaTeX Warning: Hyper reference `pac58' on page 91 undefined on input line 336.
-
-
-LaTeX Warning: Hyper reference `pac59' on page 91 undefined on input line 341.
-
-
-LaTeX Warning: Hyper reference `pac60' on page 91 undefined on input line 346.
-
-[91]
-
-LaTeX Warning: Hyper reference `pac61' on page 92 undefined on input line 359.
-
-
-LaTeX Warning: Hyper reference `pac62' on page 92 undefined on input line 364.
-
-
-LaTeX Warning: Hyper reference `pac63' on page 92 undefined on input line 369.
-
-
-LaTeX Warning: Hyper reference `pac64' on page 92 undefined on input line 374.
-
-
-LaTeX Warning: Hyper reference `pac65' on page 92 undefined on input line 379.
-
-
-LaTeX Warning: Hyper reference `pac66' on page 92 undefined on input line 384.
-
-[92]
-
-LaTeX Warning: Hyper reference `pac67' on page 93 undefined on input line 389.
-
-
-LaTeX Warning: Hyper reference `pac68' on page 93 undefined on input line 394.
-
-
-LaTeX Warning: Hyper reference `pac69' on page 93 undefined on input line 399.
-
-[93]
-
-LaTeX Warning: Hyper reference `pac70' on page 94 undefined on input line 404.
-
-[94]
-
-LaTeX Warning: Hyper reference `pac71' on page 95 undefined on input line 417.
-
-
-LaTeX Warning: Hyper reference `pac72' on page 95 undefined on input line 422.
-
-
-LaTeX Warning: Hyper reference `pac73' on page 95 undefined on input line 427.
-
-[95]
-
-LaTeX Warning: Hyper reference `pac74' on page 96 undefined on input line 432.
-
-
-LaTeX Warning: Hyper reference `pac75' on page 96 undefined on input line 437.
-
-
-LaTeX Warning: Hyper reference `pac76' on page 96 undefined on input line 442.
-
-
-LaTeX Warning: Hyper reference `pac77' on page 96 undefined on input line 447.
-
-
-LaTeX Warning: Hyper reference `pac78' on page 96 undefined on input line 452.
-
-[96]
-
-LaTeX Warning: Hyper reference `pac79' on page 97 undefined on input line 457.
-
-
-LaTeX Warning: Hyper reference `pac80' on page 97 undefined on input line 462.
-
-
-LaTeX Warning: Hyper reference `pac81' on page 97 undefined on input line 467.
-
-
-LaTeX Warning: Hyper reference `pac82' on page 97 undefined on input line 472.
-
-[97]
-
-LaTeX Warning: Hyper reference `pac83' on page 98 undefined on input line 485.
-
-
-LaTeX Warning: Hyper reference `pac84' on page 98 undefined on input line 490.
-
-
-LaTeX Warning: Hyper reference `pac85' on page 98 undefined on input line 495.
-
-
-LaTeX Warning: Hyper reference `pac86' on page 98 undefined on input line 500.
-
-
-LaTeX Warning: Hyper reference `pac87' on page 98 undefined on input line 505.
-
-[98]
-
-LaTeX Warning: Hyper reference `pac88' on page 99 undefined on input line 510.
-
-
-LaTeX Warning: Hyper reference `pac89' on page 99 undefined on input line 515.
-
-
-LaTeX Warning: Hyper reference `pac90' on page 99 undefined on input line 520.
-
-
-LaTeX Warning: Hyper reference `pac91' on page 99 undefined on input line 525.
-
-[99]
-
-LaTeX Warning: Hyper reference `pac92' on page 100 undefined on input line 530.
-
-
-[100]) (./manuscript/tex/english/acknowledgments.tex
+88.pgf) [80
+
+] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]
+[93] [94] [95] [96] [97] [98] [99] [100])
+(./manuscript/tex/english/acknowledgments.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [101
 
-LaTeX Warning: Hyper reference `pd1' on page 101 undefined on input line 10.
-
-
-LaTeX Warning: Hyper reference `pd2' on page 101 undefined on input line 15.
-
-
-LaTeX Warning: Hyper reference `pd3' on page 101 undefined on input line 20.
-
-[101
-
-]
-
-LaTeX Warning: Hyper reference `pd4' on page 102 undefined on input line 25.
-
-[102]) (./manuscript/tex/english/trainings.tex
+] [102]) (./manuscript/tex/english/trainings.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
-88.pgf)
+88.pgf) [103
 
-LaTeX Warning: Hyper reference `sekh1-2' on page 103 undefined on input line 13
-.
-
-
-LaTeX Warning: Hyper reference `sekh3-4' on page 103 undefined on input line 19
-.
-
-
-LaTeX Warning: Hyper reference `sekh5-6' on page 103 undefined on input line 25
-.
-
-
-LaTeX Warning: Hyper reference `sekh7-8' on page 103 undefined on input line 31
-.
-
-[103
-
-]
-
-LaTeX Warning: Hyper reference `sekh9-10' on page 104 undefined on input line 3
-7.
-
-
-LaTeX Warning: Hyper reference `sekh11-12' on page 104 undefined on input line 
-51.
-
-
-LaTeX Warning: Hyper reference `sekh13-14' on page 104 undefined on input line 
-57.
-
-
-LaTeX Warning: Hyper reference `sekh15-16' on page 104 undefined on input line 
-63.
-
-
-LaTeX Warning: Hyper reference `sekh17-18' on page 104 undefined on input line 
-69.
-
-[104]
-
-LaTeX Warning: Hyper reference `sekh19-20' on page 105 undefined on input line 
-75.
-
-
-LaTeX Warning: Hyper reference `sekh21-22' on page 105 undefined on input line 
-89.
-
-
-LaTeX Warning: Hyper reference `sekh23-24' on page 105 undefined on input line 
-95.
-
-
-LaTeX Warning: Hyper reference `sekh25' on page 105 undefined on input line 101
-.
-
-[105]
-
-LaTeX Warning: Hyper reference `sekh26' on page 106 undefined on input line 106
-.
-
-
-LaTeX Warning: Hyper reference `sekh27' on page 106 undefined on input line 111
-.
-
-
-LaTeX Warning: Hyper reference `sekh28' on page 106 undefined on input line 116
-.
-
-
-LaTeX Warning: Hyper reference `sekh29' on page 106 undefined on input line 121
-.
-
-
-LaTeX Warning: Hyper reference `sekh30' on page 106 undefined on input line 126
-.
-
-
-LaTeX Warning: Hyper reference `sekh31' on page 106 undefined on input line 139
-.
-
-[106]
-
-LaTeX Warning: Hyper reference `sekh32' on page 107 undefined on input line 144
-.
-
-
-LaTeX Warning: Hyper reference `sekh33' on page 107 undefined on input line 149
-.
-
-
-LaTeX Warning: Hyper reference `sekh34' on page 107 undefined on input line 154
-.
-
-
-LaTeX Warning: Hyper reference `sekh35' on page 107 undefined on input line 159
-.
-
-
-LaTeX Warning: Hyper reference `sekh36' on page 107 undefined on input line 164
-.
-
-
-LaTeX Warning: Hyper reference `sekh37' on page 107 undefined on input line 169
-.
-
-
-LaTeX Warning: Hyper reference `sekh38' on page 107 undefined on input line 174
-.
-
-
-LaTeX Warning: Hyper reference `sekh39' on page 107 undefined on input line 179
-.
-
-[107]
-
-LaTeX Warning: Hyper reference `sekh40' on page 108 undefined on input line 184
-.
-
-
-LaTeX Warning: Hyper reference `sekh41' on page 108 undefined on input line 197
-.
-
-
-LaTeX Warning: Hyper reference `sekh42' on page 108 undefined on input line 202
-.
-
-
-LaTeX Warning: Hyper reference `sekh43' on page 108 undefined on input line 207
-.
-
-
-LaTeX Warning: Hyper reference `sekh44' on page 108 undefined on input line 212
-.
-
-
-LaTeX Warning: Hyper reference `sekh45' on page 108 undefined on input line 217
-.
-
-
-LaTeX Warning: Hyper reference `sekh46' on page 108 undefined on input line 222
-.
-
-[108]
-
-LaTeX Warning: Hyper reference `sekh47' on page 109 undefined on input line 227
-.
-
-
-LaTeX Warning: Hyper reference `sekh48' on page 109 undefined on input line 232
-.
-
-
-LaTeX Warning: Hyper reference `sekh49' on page 109 undefined on input line 237
-.
-
-
-LaTeX Warning: Hyper reference `sekh50' on page 109 undefined on input line 242
-.
-
-
-LaTeX Warning: Hyper reference `sekh51' on page 109 undefined on input line 255
-.
-
-
-LaTeX Warning: Hyper reference `sekh52' on page 109 undefined on input line 260
-.
-
-
-LaTeX Warning: Hyper reference `sekh53' on page 109 undefined on input line 265
-.
-
-[109]
-
-LaTeX Warning: Hyper reference `sekh54' on page 110 undefined on input line 270
-.
-
-
-LaTeX Warning: Hyper reference `sekh55' on page 110 undefined on input line 275
-.
-
-
-LaTeX Warning: Hyper reference `sekh56' on page 110 undefined on input line 280
-.
-
-
-LaTeX Warning: Hyper reference `sekh57' on page 110 undefined on input line 285
-.
-
-
-LaTeX Warning: Hyper reference `sekh58' on page 110 undefined on input line 290
-.
-
-
-LaTeX Warning: Hyper reference `sekh59' on page 110 undefined on input line 295
-.
-
-
-LaTeX Warning: Hyper reference `sekh60' on page 110 undefined on input line 300
-.
-
-[110]
-
-LaTeX Warning: Hyper reference `sekh61' on page 111 undefined on input line 313
-.
-
-
-LaTeX Warning: Hyper reference `sekh62' on page 111 undefined on input line 318
-.
-
-
-LaTeX Warning: Hyper reference `sekh63' on page 111 undefined on input line 323
-.
-
-
-LaTeX Warning: Hyper reference `sekh64' on page 111 undefined on input line 328
-.
-
-
-LaTeX Warning: Hyper reference `sekh65' on page 111 undefined on input line 333
-.
-
-
-LaTeX Warning: Hyper reference `sekh66' on page 111 undefined on input line 338
-.
-
-
-LaTeX Warning: Hyper reference `sekh67' on page 111 undefined on input line 343
-.
-
-[111]
-
-LaTeX Warning: Hyper reference `sekh68' on page 112 undefined on input line 348
-.
-
-
-LaTeX Warning: Hyper reference `sekh69' on page 112 undefined on input line 353
-.
-
-
-LaTeX Warning: Hyper reference `sekh70' on page 112 undefined on input line 358
-.
-
-
-LaTeX Warning: Hyper reference `sekh71' on page 112 undefined on input line 363
-.
-
-
-LaTeX Warning: Hyper reference `sekh72' on page 112 undefined on input line 368
-.
-
-
-LaTeX Warning: Hyper reference `sekh73' on page 112 undefined on input line 373
-.
-
-[112]
-
-LaTeX Warning: Hyper reference `sekh74' on page 113 undefined on input line 378
-.
-
-
-LaTeX Warning: Hyper reference `sekh75' on page 113 undefined on input line 383
-.
-
-[113]) (./manuscript/tex/english/settlements.tex
+] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113])
+(./manuscript/tex/english/settlements.tex
 (/usr/local/texlive/2021/texmf-dist/tex/generic/pgfornament/vectorian/vectorian
 88.pgf) [114
 
@@ -4042,7 +2556,7 @@ LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
 ]
 warning  (file ./back-cover-compressed.jpg) (readjpg): Exif resolution 300dpi x 
 300dpi differs from the input resolution 72dpi x 72dpi
-<./back-cover-compressed.jpg, id=1474, 421.0932pt x 597.432pt>
+<./back-cover-compressed.jpg, id=2154, 421.0932pt x 597.432pt>
 File: ./back-cover-compressed.jpg Graphic file (type jpg)
 <use ./back-cover-compressed.jpg>
 Package luatex.def Info: ./back-cover-compressed.jpg  used on input line 143.
@@ -4064,7 +2578,7 @@ No complaints by nag.
 \tf@toc=\write7
 
 \openout7 = main.toc
-\c@pagesLTS.arabic.1.local.count=\count465
+\c@pagesLTS.arabic.1.local.count=\count467
 
 AED: pageslts setting VeryLastPage via AfterLastShipout 
 
@@ -4074,10 +2588,7 @@ AED: pageslts setting LastPages via AfterLastShipout
 Package pageslts Info: Total number of pages is odd.
 
 
-(./main.aux
-\c@pagesLTS.roman.1.local.cnt=\count466
-\c@pagesLTS.arabic.1.local.cnt=\count467
-)
+(./main.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.72pt have occurred.
@@ -4086,32 +2597,29 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 47936 strings out of 477800
+ 47955 strings out of 477800
  125197,1977958 words of node,token memory allocated
- 1408 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 4 glyph, 21
- attribute, 221 glue_spec, 12 attribute_list, 7 write, 1 close, 1 pdf_colorstack
- nodes
-   avail lists: 2:1401,3:765,4:104,5:647,6:63,7:6092,8:42,9:290,10:18,11:236,12:
+ 1516 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 1 local_par, 4 glue, 3 kern, 1 penalty, 4 glyph, 39
+ attribute, 221 glue_spec, 21 attribute_list, 7 write, 1 close, 9 pdf_action, 1 
+pdf_colorstack nodes
+   avail lists: 2:1375,3:765,4:161,5:651,6:89,7:6185,8:62,9:352,10:18,11:243,12:
 2
- 65380 multiletter control sequences out of 65536+600000
- 256 fonts using 37520671 bytes
+ 65387 multiletter control sequences out of 65536+600000
+ 258 fonts using 38308207 bytes
  103i,13n,101p,2421b,833s stack positions out of 5000i,500n,10000p,200000b,80000s
 <./assets/fonts/LibertinusSerifX-Bold.ttf><./assets/fonts/LibertinusSerif-Italic
 .otf><./assets/fonts/LibertinusSerifX-Regular.ttf><./assets/fonts/palisbs.ttf></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb>
-Output written on main.pdf (131 pages, 1977551 bytes).
+Output written on main.pdf (133 pages, 2003207 bytes).
 
-PDF statistics: 3015 PDF objects out of 3580 (max. 8388607)
- 1309 compressed objects within 14 object streams
- 1042 named destinations out of 1200 (max. 131072)
+PDF statistics: 3694 PDF objects out of 4296 (max. 8388607)
+ 1909 compressed objects within 20 object streams
+ 1044 named destinations out of 1200 (max. 131072)
  3925 words of extra memory for PDF output out of 10000 (max. 100000000)
 
