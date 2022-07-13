@@ -69,7 +69,7 @@ pdf:
 	@org-tangle ./chattha-sangayana-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -82,7 +82,7 @@ pdf2x:
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Bhikkhupātimokkha.pdf"
+	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -100,12 +100,6 @@ pdfrequirements:
 	@mv "tabularray" "ninecolors" $(TEXMFHOME)/tex
 	@rm -rf "tabularray.zip" "ninecolors.zip"
 	@echo "Completed."
-
-
-#-----------------------------------------------------------------------------------------#
-
-
-
 
 
 #-----------------------------------------------------------------------------------------#
