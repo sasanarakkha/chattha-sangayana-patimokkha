@@ -1,0 +1,1720 @@
+#+title:  Chaṭṭha-sangāyana Patimokkha English Translation
+#+author: SBS Saṅgha
+#+startup:   fold
+
+* Introduction
+#+begin_src txt :tangle yes
+
+Introduction Recitation
+
+Bhante, let the Sangha listen to me.
+
+Today is Uposatha the 15th. [the 14th]
+
+If the Sangha is ready the Sangha should do Uposatha, should recite the Patimokkha. What about the preliminary duties of the Sangha?
+
+Venerables, do announce [your] complete purity, I shell recite the Patimokkha.
+
+Let all of us present carefully listen [and] pay attention to it.
+
+For whom there may be an offense he should reveal it; in the absence of an offense, one is to be silent.
+
+Now, by being silent I shell know the Venerables are “completely pure”.
+
+Now, just as one who has been individually questioned has an answer,  likewise in such an assembly
+[when it*] has been repeatedly proclaimed up to the third time.
+
+Should any bhikkhu, when it is being repeatedly proclaimed up to the third time, not reveal an existing offense that he remembers, there is false speech in full awareness for him.
+
+Now, Venerables, false speech in full awareness has been said by the Blessed One to be an obstructive thing.
+
+Therefore, an existing offense is to be revealed by the bhikkhu who has offended, remembers and seek purification.
+
+When revealed, it is a comfort to him.
+
+Recited, venerables, is the introduction.
+
+
+Therein I ask the venerables,
+so, are you completely pure?
+For the second time too, I ask:
+so, are you completely pure?
+For the third time too, I ask
+so, are you completely pure?
+
+Completely pure the venerables are, therefore silent.
+Thus I bear this in mind .
+
+Nidāna has ended . [The introduction has ended.]
+
+#+end_src
+ 
+* Expulsion
+#+begin_src txt :tangle yes
+
+Pārājika Recitation
+Therein, the four pārājika1 matters
+come up for recitation.
+The Training Rule about Sexual Intercourse
+Should any bhikkhu who has undertaken the bhikkhus’ training and livelihood—
+without having given up the training,
+without having declared his weakness
+—engage in sexual intercourse,
+even to the extent of with a female animal,
+he is defeated, not in communion.
+The Training Rule about Taking what is not Given
+Should any bhikkhu
+take, with a thieving mind, what is not given from the village or from the forest;
+as in the taking of what is not given of such nature that kings, having arrested the robber,
+would torture, imprison
+or banish [him,
+saying,] “You’re a robber, you’re a fool,
+you’re gone astray, you’re a thief,”
+the bhikkhu taking what is not given
+of that nature,
+he too is defeated, not in communion.
+The Training Rule about a Human Being
+Should any bhikkhu
+intentionally deprive
+a human being of life,
+or seek a [life-]taking weapon for him, or praise the virtue of death,
+or incite [him] to die,
+[saying,] “Hey, man!
+What use to you is this wretched, difficult life?
+Death is better for you than life,”
+with such a thought in mind, such an intention in mind, should he in various ways
+praise the virtue of death
+or incite [him] to die,
+he too is defeated, not in communion.
+The Training Rule about Superhuman State
+Should any bhikkhu,
+without realising
+a superhuman state,
+a noble knowledge and vision capable [of purification],
+declare referring to oneself,
+“Thus I know, thus I see,”
+then, on a later occasion,
+whether being cross-examined
+or not being cross-examined,
+should the offender seeking purification
+say thus,
+“Not knowing thus, friend, I said I know.
+Not seeing, [I said] I see.
+I vainly blathered falsehood,”
+except in overestimation,
+he too is defeated, not in communion.
+
+
+Recited, venerables,
+are the four pārājika matters.
+A bhikkhu having committed
+whichever of these
+does not get
+communion with the bhikkhus.
+Just as before,
+so is [he] afterwards:
+he is defeated, not in communion.
+Therein, I ask the venerables, “Now then, are you pure in this?” For the second time, I ask, “Now then, are you pure in this?” For the third time, I ask, “Now then, are you pure in this?” The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+Pārājika has ended.
+ 
+#+end_src
+
+* Sanghadisesa
+#+begin_src txt :tangle yes
+Saṅghādisesa Recitation Now, venerables,
+these thirteen saṅghādisesa2 matters
+come up for recitation.
+The Training Rule about Semen Emission
+Intentional emission of semen,
+except during a dream,
+is a saṅghādisesa.
+The Training Rule about Bodily Contact
+Should any bhikkhu,
+fallen [into lust], with a perverted mind,
+engage in bodily contact
+with a woman
+–holding the hand,
+or holding a lock of hair,
+or touching
+whichever part–
+there is a saṅghādisesa.
+The Training Rule about Gross Words
+Should any bhikkhu,
+fallen [into lust], with a perverted mind,
+speak to a woman
+with gross words referring to sex,
+just as a young man [would] to a young woman,
+there is a saṅghādisesa.
+The Training Rule about Sexual Service for Oneself
+Should any bhikkhu,
+fallen [into lust], with a perverted mind,
+speak in a woman’s presence
+of the virtue of ministering to
+his own sensuality,
+with reference to sex, [saying,]
+“This, sister, is the highest of ministrations:
+[that of] a woman who should minister to
+one such as me, who is virtuous,
+of good conduct, leading a holy life,
+with that thing,”
+there is a saṅghādisesa.
+The Training Rule about Going Back & Forth
+Should any bhikkhu
+engage in going back and forth [conveying] to a woman a man’s intentions, or
+to a man a woman’s intentions
+to be a wife or a mistress
+even to the extent of being a temporary one,
+there is a saṅghādisesa.
+The Training Rule about Building a Hut
+A bhikkhu having a hut—that is without a sponsor [and] intended for oneself—
+built through self-begging,
+is to have one within a limit built.
+Therein, this is the limit:
+in length, twenty spans,
+going by the sugata-span; across, seven inside.
+Bhikkhus are to be brought
+to point out a site.
+A site that is not dangerous
+[and] has [space for] going around
+is to be pointed out by those bhikkhus.
+If a bhikkhu should have a hut built through self-begging at a site that is dangerous and without [space for] going around,
+or should not bring bhikkhus
+to point out a site.
+or should exceed the limit,
+there is a saṅghādisesa.
+The Training Rule about Building a Dwelling
+A bhikkhu having
+a sizeable dwelling built,
+with a sponsor, [and] intended for oneself,
+is to bring bhikkhus to point out a site.
+A site that is not dangerous [and] has [space for] going around is to be pointed out by those bhikkhus.
+If a bhikkhu should have a sizeable dwelling built
+at a site that is dangerous and without [space for] going around,
+or should not bring bhikkhus to point out a site,
+there is a saṅghādisesa.
+The Training Rule about One who is Offended, Angered
+Should any bhikkhu,
+offended, angered, displeased,
+accuse a bhikkhu
+of a baseless pārājika matter,
+[thinking], “Perhaps I could make him fall
+from this holy life,”
+then, on a later occasion, whether being cross-examined or not being cross-examined,
+[if] that case is baseless,
+and the bhikkhu admits the fault,
+there is a saṅghādisesa.
+The Training Rule about that which is Connected with Another
+Should any bhikkhu,
+offended, angered, displeased,
+accuse a bhikkhu of a pārājika matters
+by using as a mere ploy some point
+of a case connected with another matter,
+[thinking, ]“Perhaps I could make him fall
+from this holy life,”
+then, on a later occasion, whether being cross-examined or not being cross-examined
+[if] that case is
+connected with another matter,
+a mere ploy has been used
+and the bhikkhu admits the fault,
+there is a saṅghādisesa.
+The Training Rule about Saṅgha Breakup
+Should any bhikkhu
+strive for the breakup
+of a united saṅgha,
+or persist in taking up
+and upholding the course
+leading to the breakup,
+that bhikkhu is to be told thus
+by the bhikkhus,
+“Do not, venerable, strive for
+the breakup of a united saṅgha,
+or persist in taking up
+and upholding the course
+leading to the breakup.
+Let the venerable be harmonious with the saṅgha.
+For a united saṅgha dwells comfortably,
+rejoicing, not disputing,
+having one [common] recitation.”
+Should that bhikkhu,
+being told thus by the bhikkhus,
+uphold it just as before,
+that bhikkhu is to be repeatedly spoken to by the bhikkhus up to the third time to give that up.
+If he, being repeatedly spoken to up to the third time, were to give that up,
+then that is good.
+If he were not to give up,
+there is a saṅghādisesa.
+The Training Rule about Breakup Follower
+There are one, two or three bhikkhus
+of that very bhikkhu,
+who are [his] followers and separatists.
+Should they say thus,
+“Do not, venerables,
+tell that bhikkhu anything.
+That bhikkhu is a speaker of Dhamma.
+That bhikkhu is also a speaker of Vinaya. And that bhikkhu speaks in accordance with our desire and preference. He knows and speaks for us.
+And that is agreeable to us.”
+Those bhikkhus should be told thus by the bhikkhus,
+“Do not, venerables, say thus.
+That bhikkhu is not a speaker of Dhamma. That bhikkhu is also not a speaker of Vinaya.
+And do not let a breakup of the saṅgha be pleasing to the venerables.
+Let [the mind] of the venerables
+be harmonious with the saṅgha.
+For a united saṅgha dwells comfortably, rejoicing, not disputing, having one [common] recitation.”
+Should those bhikkhus, being told thus by the bhikkhus, uphold it just as before,
+those bhikkhus is to be repeatedly spoken to by the bhikkhus up to the third time to give that up.
+If they, being repeatedly spoken to up to the third time, were to give that up,
+then that is good.
+If they were not to give up,
+there is a saṅghādisesa.
+The Training Rule about One who is Hard to be Told
+A [certain] bhikkhu, despite being one, is by nature hard to be told in respect of the training rules included in the recitation;
+being told according to regulations by the bhikkhus, [he] makes himself incapable of being told.
+“Do not, venerables,
+tell me anything
+good or bad.
+I too shall not
+tell the venerables anything
+good or bad.
+Refrain, venerables,
+from telling me3.”
+That bhikkhu is to be told thus by the bhikkhus,
+“Do not, venerable, make yourself incapable of being told.
+Rather, venerable, make yourself
+capable of being told.
+Let the venerable tell the bhikkhus according to regulations.
+The bhikkhus too shall tell the venerable according to regulations.
+For in this way
+has the Blessed One’s assembly grown,
+that is,
+by telling one another,
+by uplifting one another.
+Should that bhikkhu, being told thus by the bhikkhus,
+uphold it just as before,
+that bhikkhu is to be repeatedly spoken to by the bhikkhus up to the third time to give that up.
+If he, being repeatedly spoken to up to the third time, were to give that up, then that is good.
+If he were not to give up, there is a saṅghādisesa.
+The Training Rule about the Family Corrupter
+A [certain] bhikkhu, despite being one,
+lives depending on a certain village or small town, being a corrupter of families and one of evil ways,
+His evil ways are seen and heard of;
+families corrupted by him are also seen and heard of.
+That bhikkhu is to be told thus by the bhikkhus,
+“The venerable sir is a corrupter of families and one of evil ways.
+The venerable’s evil ways
+are seen and heard of;
+families corrupted by the venerable
+are also seen and heard of.
+Go away, venerable,
+from this residence.
+Enough of your stay here.”
+Should that bhikkhu,
+being told thus by the bhikkhus,
+say to those bhikkhus thus,
+“The bhikkhus are going by desire,
+the bhikkhus are going by anger,
+the bhikkhus are going by delusion,
+the bhikkhus are going by fear.
+Because of such an offence,
+they banish some,
+they don’t banish some,”
+that bhikkhu is to be told thus by the bhikkhus,
+Do not, venerable, say thus.
+The bhikkhus are not going by desire,
+the bhikkhus are not going by anger,
+the bhikkhus are not going by delusion,
+the bhikkhus are not going by fear.
+“The venerable
+is a corrupter of families and one of evil ways.
+The venerable’s evil ways
+are seen and heard of;
+families corrupted by the venerable
+are also seen and heard of.
+Go away, venerable, from this residence.
+Enough of your stay here.”
+Should that bhikkhu, being told thus by the bhikkhus,
+uphold it just as before,
+that bhikkhu is to be repeatedly spoken to by the bhikkhus up to the third time to give that up.
+If he, being repeatedly spoken to up to the third time, were to give that up, then that is good.
+If he were not to give up, there is a saṅghādisesa.
+
+
+Recited, venerables,
+are the thirteen saṅghādisesa matters:
+nine refer to offences [committed] at once,
+four only after the third [admonishment].
+A bhikkhu having committed whichever of these
+is to live on probation against his will for as many days he knowingly conceals [the matter].
+A further six nights [of penance] for the sake of the bhikkhus’ respect is to be undertaken by the bhikkhu who has lived on probation.
+The bhikkhu who has completed the mānatta is to be reinstated where there is a bhikkhu-saṅgha comprising a group of 20.
+If a bhikkhu-saṅgha comprising a group of even one less than 20
+should [proceed to] reinstate that bhikkhu,
+that bhikkhu is not reinstated,
+and those bhikkhus are censurable.
+This is proper here.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Saṅghādisesa has ended.
+ 
+#+end_src
+
+* Aniyata
+#+begin_src txt :tangle yes
+Aniyata4 recitation
+Now, venerables,
+the two indefinite matters
+come up for recitation.
+First Aniyata Training Rule
+Should any bhikkhu
+sit5
+together with a woman
+— one man with one woman privately —
+in a hidden seat
+sufficiently convenient [for sexual intercourse];
+[then] should a female lay follower of credible speech, having seen him,
+speak according to any
+of the three matters—
+pārājika, saṅghādisesa or pācittiya; the bhikkhu, acknowledging sitting [thus],
+is to be dealt with
+according to any of the three matters: pārājika, saṅghādisesa or pācittiya.
+Or, that bhikkhu is to be dealt with according to what the female lay follower of credible speech should say.
+This matter is indefinite.
+
+Second Aniyata Training Rule
+However, [if]
+the seat is not hidden,
+not sufficiently convenient [for sexual intercourse],
+yet sufficiently [so]
+to speak
+to a woman with lewd words,
+[then] should any bhikkhu
+sit
+together with a woman
+—one man with one woman privately—
+in such a seat
+[then] should a female lay follower of credible speech, having seen him,
+speak according to any of the two matters— saṅghādisesa or pācittiya;
+the bhikkhu, acknowledging sitting [thus], is to be dealt with according to any of the two matters— saṅghādisesa or pācittiya.
+Or, that bhikkhu is to be dealt with according to what the female lay follower of credible speech should say.
+This matter too is indefinite.
+
+
+Recited, venerables,
+are the two aniyata matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Aniyata has ended.
+ 
+#+end_src
+
+* NP
+#+begin_src txt :tangle yes
+Nissaggiya-pācittiyas
+Now, venerables,
+the thirty nissaggiya pācittiya matters
+come up for recitation.
+The Training Rule about the Kathina
+When the robe[-making] is finished by a bhikkhu, when the kathina [privileges] are withdrawn,
+an extra robe is to be kept/used
+for ten days at most.
+For one who exceeds that,
+there is a nissaggiya pācittiya.
+The Training Rule about the Storehouse
+When the robe[-making] is finished by a bhikkhu,
+when the kathina [privileges] are withdrawn,
+if the bhikkhu should live apart from the three robes even for one night,
+except with the bhikkhus’ agreement,
+there is a nissaggiya pācittiya.
+The Training Rule about Out-of-season Robe [Material]
+When the robe[-making] is finished by a bhikkhu,
+when the kathina [privileges] are withdrawn,
+should out-of-season robe [material]
+accrue to a bhikkhu,
+[it] is to be accepted
+by the bhikkhu who so wishes.
+Having being accepted,
+[it] is to be quickly made up.
+If it should not be enough,
+that robe [material] is to be set aside
+by that bhikkhu for a month at most,
+when there is expectation [for more]
+to make up for the lack.
+If [he] should set [it] aside beyond then,
+even when there is expectation [for more],
+there is a nissaggiya pācittiya.
+The Training Rule about an Old Robe
+Should any bhikkhu
+have an old robe
+washed, dyed, or beaten
+by an unrelated bhikkhunī,
+there is a nissaggiya pācittiya.
+The Training Rule about Accepting a Robe
+Should any bhikkhu
+accept a robe from the hand
+of an unrelated bhikkhunī
+except in exchange [for something],
+there is a nissaggiya pācittiya.
+The Training Rule about Asking the Unrelated
+Should any bhikkhu
+ask an unrelated
+male or female householder6
+for a robe,
+except on the [proper] occasion,
+there is a nissaggiya pācittiya.
+Therein, this is the occasion:
+the bhikkhu has been robbed of [his] robe,
+or has lost his robe.
+This is the occasion here.
+The Training Rule about Beyond-that
+If the unrelated
+male or female householder
+should invite that [bhikkhu]
+with many robes to take away,
+at most an upper with an inner [robe]
+is to be accepted therefrom
+by that bhikkhu
+If [he] should accept more than that,
+there is a nissaggiya pācittiya.
+The First Training Rule about that which is Prepared
+Specifically intended for a bhikkhu,
+a robe-buying [fund] has been prepared
+by an unrelated
+male or female householder,
+[saying,] “With this robe-buying [fund],
+I shall buy a robe and
+clothe so-and-so bhikkhu
+with the robe.”
+Therein, if that bhikkhu,
+not being previously invited, should approach [him/her] and get into a special arrangement in regard to the robe,
+[saying,] “It would certainly be good7,
+sir, that with this robe-buying [fund],
+you buy such and such
+a robe and clothe me,”
+out of desire for a good [robe],
+there is a nissaggiya pācittiya.
+The Second Training Rule about what is Prepared
+Specifically intended for a bhikkhu,
+separate robe-buying [funds]
+have been prepared
+by two male or female householders unrelated [to the bhikkhu],
+[saying,] “With these separate robe-buying [funds], we shall buy separate robes and
+clothe so-and-so bhikkhu
+with the robes.”
+Therein, if that bhikkhu, not being previously invited, should approach [them] and get into a special arrangement in regard to the robe,
+[saying,] “It would certainly be good,
+sirs, that with these
+separate robe-buying [funds],
+you buy such and such
+a robe and clothe me
+with just one [robe] although there are two [of you],”
+out of desire for a good [robe]
+there is a nissaggiya pācittiya.
+The Training Rule about King
+Specifically indented for a bhikkhu,
+should a king, a king’s officer,
+a brahmin, or a householder
+send a robe-buying [fund] through a messenger,
+[saying,] “With this robe-buying [fund], buy a robe and clothe so-and-so bhikkhu with the robe.”
+If that messenger
+should approach that bhikkhu and say thus:
+“Bhante, this robe-buying [fund] intended for the venerable has been brought.
+Let the venerable accept the robe-buying [fund].”
+That messenger
+should be told thus by that bhikkhu,
+“We, friend, do not
+accept a robe-buying [fund].
+However, at the [proper] time, we do accept
+a robe that is allowable.”
+If that messenger should say thus to that bhikkhu,
+“Has the venerable any steward?”8
+Bhikkhus, a steward — either a monastery keeper or a lay follower — is to be indicated by the bhikkhu who need’s a robe,
+[saying,] “That, friend,
+is the bhikkhus’ steward.”
+If that messenger should inform that steward,
+then approach that bhikkhu
+and say thus
+“Bhante, that steward which
+the venerable indicated
+has been informed by me.
+Let the venerable approach [him] at the [proper] time.
+[He] will clothe him9 with a robe.”
+Bhikkhus, the steward is to be approached, by the bhikkhu who needs a robe,
+then requested [or] reminded two or three times,
+[saying,] “Friend, I need a robe.”10
+Should he requesting [or] reminding [the steward] two or three times
+bring about that robe,
+then that is good.
+If he should not bring [it] about,
+he is to stand in silence for the purpose
+four times, five times,
+six times at most.
+Should standing in silence for the purpose
+four times, five times, six times at most,
+bring about that robe,
+then that is good.
+If he trying beyond that
+should bring about that robe,
+there is a nissaggiya pācittiya.
+If he should not bring [it] about,
+he is to go himself or have a messenger sent to where the robe-buying [fund] has been brought from for him.
+“That robe-buying [fund] indented for a bhikkhu,
+which you, venerables, sent is not producing any benefit for that bhikkhu.
+
+Let the venerables endeavour [to get back] that which is [their] own.
+May that which is your own not be lost.”
+This is proper here.
+Robe chapter, which is the first
+ 
+The Training Rule about Silk
+Should any bhikkhu have
+a spread made
+mixed with silk,
+there is a nissaggiya pācittiya.
+The Training Rule about that which is Pure Black
+Should any bhikkhu have
+a spread made
+of pure black goat’s wool,
+there is a nissaggiya pācittiya.
+The Training Rule about Two Portions
+Two parts
+of pure black goat’s wool,
+the third of white,
+[and] the fourth of tawny colour,
+are to be taken
+by a bhikkhu
+having a new spread made.11
+If a bhikkhu, without having taken
+two parts
+of pure black goat’s wool,
+the third of white,
+[and] the fourth of tawny colour,
+should have a new spread made,
+there is a nissaggiya pācittiya.
+The Training Rule about Six Years
+A new spread,
+having been had [=caused to be] made by a bhikkhu, is to be kept/used for six years.12
+If within the six years,
+whether having relinquished
+that spread or not,
+he should have another new spread made,
+except with the bhikkhus’ agreement,
+there is a nissaggiya pācittiya.
+The Training Rule about the Sitting-spread
+A sugata-span [of material] from around a used spread is to be taken,
+for the sake of disfigurement,
+by a bhikkhu having a sitting-spread made.13
+If a bhikkhu, without having taken
+a sugata-span [of material] from around a used spread,
+should have a new sitting-spread made,
+there is a nissaggiya pācittiya.
+The Training Rule about Wool
+Should goat’s wool arise
+even to a bhikkhu
+who has gone on a long journey
+it can be accepted
+by the bhikkhu who wishes to.
+Having been accepted, it can be taken away with one's own hand for three yojanas at most in the absence of a carrier.
+If he should take [it] away beyond that,
+even in the absence of a carrier,
+there is a nissaggiya pācittiya.
+The Training Rule about Wool-washing
+Should any bhikkhu
+have goat’s wool
+washed, dyed, or unravelled
+by an unrelated bhikkhunī,
+there is a nissaggiya pācittiya.
+The Training Rule about Money
+Should any bhikkhu
+take up [=receive] gold & silver
+or have it taken up [=received]
+or agree to
+that which has been deposited [for him],
+there is a nissaggiya pācittiya.
+The Training Rule about Trading with Money
+Should any bhikkhu
+engage in
+various types of trading with money,
+there is a nissaggiya pācittiya.
+The Training Rule about Trading
+Should any bhikkhu
+engage in
+various types of bartering,
+there is a nissaggiya pācittiya.
+Silk chapter which is the second
+ 
+The Training Rule about the Bowl
+An extra bowl is to be kept
+for ten days at most.
+For one who exceeds that,
+there is a nissaggiya pācittiya.
+The Training Rule about Less than Five Mends
+Should any bhikkhu
+should exchange a bowl having less than five mends for another new bowl14,
+there is a nissaggiya pācittiya.
+That bowl is to be forfeited
+by that bhikkhu to the assembly of bhikkhus;
+and that which is the last bowl of that assembly of bhikkhus
+is to be given to that bhikkhu.
+“Bhikkhu, this is your bowl,
+which is to be kept/used until it breaks.”
+This is proper here.
+The Training Rule about Medicine
+Those which are medicine suitable to be taken
+to/for sick bhikkhus
+are as follows:
+ghee, fresh butter, oil,
+honey, molasses/sugar.
+Having accepted them,
+they are to be made used of —
+storing them up for seven days at most.
+For one who exceeds that,
+there is a nissaggiya pācittiya.
+The Training Rule about the Rains Sarong
+In “the remaining month of the hot season [months]” a rains sarong
+is to be sought by a bhikkhu.
+In “the remaining half-month of the hot season [months]” [it] is to be made and worn.
+If [he] should seek a cladding-robe for the rains before “the remaining month of the hot season [months]”,
+[or] should make and wear [it] before “the remaining half-month of the hot season [months]”,
+there is a nissaggiya pācittiya.
+The Training Rule about Robe-snatching
+Should any bhikkhu,
+having oneself given a robe to a bhikkhu,
+angered, upset,
+snatch or have it snatched,
+there is a nissaggiya pācittiya.
+The Training Rule about Asking for Thread
+Should any bhikkhu
+having asked for thread oneself
+have a robe woven by weavers,
+there is a nissaggiya pācittiya.
+The Great Training Rule about Weavers
+Should an unrelated male or female householder
+have a robe woven by weavers
+for the purpose of a bhikkhu,
+Therein, if that bhikkhu
+who is previously uninvited
+should approach the weavers and gets into a special arrangement in regards to the robe,
+“Friend, this
+robe is woven for me.
+Make [it] long.
+Make [it] wide, closely woven,
+well woven, well spread,
+well scratched, well combed.
+Perhaps we may even give a little more for [you] respectable sirs.”
+Should that bhikkhu having said thus,
+give a little more
+even if just a measure of alms food.
+there is a nissaggiya pācittiya.
+The Training Rule about the Urgent Robe
+Should an urgent robe
+accrue to a bhikkhu
+ten days prior to the Kattika full moon [at the end] of the three months [of the Rains],
+[it] is to be accepted by the bhikkhu
+who deems [it] urgent.
+Having received [it], [it] is to be set it aside for as long as the robe-season occasion
+If [he] should set [it] aside beyond then,
+there is a nissaggiya pācittiya.
+The Training Rule about that which is Dangerous
+Having completed [the vassa
+until] the Kattika full moon,
+a bhikkhu living in such abodes,
+— as those forest abodes
+that are reputedly suspicious, fearful —
+may, if he wishes to,
+set aside any [one] robe
+of the three robes
+‘among houses’15.
+and should there be for that bhikkhu
+whatever reason
+for staying apart from that robe,
+for six nights at most that bhikkhu
+is to stay apart from that robe.
+If [he] should stay apart [from it] beyond then,
+except with the bhikkhus’ agreement,
+there is a nissaggiya pācittiya.
+The Training Rule about Should any bhikkhu,
+knowing so, direct to oneself
+what is intended to be Saṅgha property,
+there is a nissaggiya pācittiya.
+The Bowl Chapter, which is the third
+
+
+Recited, venerables,
+are the thirty nissaggiya pācittiya matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+Nissaggiya pācittiyas have ended.
+ 
+#+end_src
+
+* Pure Pc
+#+begin_src txt :tangle yes
+Pure Pācittiyas16
+Now, venerables, the ninety-two pācittiya matters come up for recitation.
+The Training Rule about Lying
+In conscious lying, there is a pācittiya.
+The Training Rule about Abusive Speech
+In abusive speech, there is a pācittiya.
+The Training Rule about Tale-bearing
+In tale-bearing among bhikkhus, there is a pācittiya.
+The Training Rule about the Dhamma in Parts
+Whichever bhikkhu
+should cause one not fully ordained
+to utter the dhamma in parts,
+there is a pācittiya.
+The First Training Rule about Reclining at the Same Time
+Whichever bhikkhu
+should recline in the same lodging together
+with one not fully ordained
+beyond two or three nights,
+there is a pācittiya.
+The Second Training Rule about Reclining at the Same Time
+Whichever bhikkhu
+should recline in the same lodging together
+with a woman,
+there is a pācittiya.
+The Training Rule about Dhamma-preaching
+Whichever bhikkhu
+should preach the dhamma
+beyond five or six sentences
+to a woman, except in the presence
+of a knowledgeable man,
+there is a pācittiya.
+The Training Rule about a True Declaration
+Whichever bhikkhu
+should, declare a superhuman state
+to one not fully ordained,
+in that being true, there is a pācittiya.
+The Training Rule about a Grave Declaration
+Whichever bhikkhu
+should declare to one not fully ordained
+a bhikkhu’s gross offences,
+except with the bhikkhus’ agreement,
+there is a pācittiya.
+The Training Rule about Earth-digging
+Whichever bhikkhu
+should dig or cause to dig earth,
+there is a pācittiya.
+Lying chapter, which is the first.
+ 
+The Training Rule about Vegetation
+In damaging vegetation, there is a pācittiya.
+The Training Rule about
+In being one who speaks evasively or makes mischief/nuisance, there is a pācittiya.
+The Training Rule about
+In belittling or harassing17, there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+having spread or cause to spread
+a bed, a couch
+a mattress, or a stool
+belonging to the saṅgha
+in the open,
+leave
+without removing it
+nor have it removed,
+or go without informing,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+having spread or cause to spread bedding in a dwelling belonging to the saṅgha,
+leave
+without removing it
+or have it removed,
+or go without informing,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+in a dwelling belonging to the saṅgha,
+knowingly lie down intruding
+a bhikkhu who arrived earlier
+[thinking], “To him it would be crowded,
+he would leave.”
+Having done so for that reason only, not otherwise, there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+angered, upset,
+cast out or cause cast out
+a bhikkhu from a dwelling belonging to the saṅgha, there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+in a dwelling belonging to the saṅgha,
+sit or lie down
+on a bed or couch
+that has removable legs
+on the upper floor of a hut,
+there is a pācittiya.
+The Training Rule about
+A bhikkhu building
+a sizeable dwelling,
+until around the doorway
+for the setting up of a door
+for the preparation of a window
+two or three should remain standing
+If it should remain standing
+even beyond grass-free,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing so, pour or cause to pour
+water containing insects
+to the grass or earth,
+there is a pācittiya. Plant chapter, which is the second
+ 
+The Training Rule about Exhortation
+Whichever bhikkhu,
+not consented,
+should exhort the bhikkhunīs,
+there is a pācittiya.
+The Training Rule about [Sun]set
+If a bhikkhu, though consented,
+should exhort the bhikkhunīs,
+when the sun has set,
+there is a pācittiya.
+The Training Rule about Bhikkhunī-residence
+Whichever bhikkhu
+should approach a bhikkhunī-residence and
+exhort the bhikkhunīs,
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+a bhikkhunī is ill.
+This is occasion here.
+The Training Rule about Material Things
+Whichever bhikkhu
+should say thus:
+“Because of material gain the elder bhikkhus
+exhort the bhikkhunīs.”,
+there is a pācittiya.
+The Training Rule about Giving a Robe
+Whichever bhikkhu,
+should give a robe
+to an unrelated bhikkhunī
+except in exchange18,
+there is a pācittiya.
+The Training Rule about Sewing a Robe
+Whichever bhikkhu,
+should sew or cause to sew a robe
+for an unrelated bhikkhunī,
+there is a pācittiya.
+The Training Rule about Arrangement
+Whichever bhikkhu,
+should go on one long journey,
+even to the extend of between villages,
+together with a bhikkhunī,
+having arranged [with her],
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+it is a reputedly suspicious and fearful journey that is to be traveled with a caravan,
+This is occasion here.
+The Training Rule about Boarding a Boat
+Whichever bhikkhu,
+should board a boat
+together with a bhikkhunī,
+having arranged [with her],
+whether going up[stream]
+or going down[stream]
+except for crossing to the other side,
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu,
+should knowingly eat alms food
+that is arranged [through persuasion] by a bhikkhunī, except that which is the householder’s prior undertaking,
+there is a pācittiya.
+The Training Rule about Whichever bhikkhu,
+should sit19
+together with a bhikkhunī,
+— one man with one woman privately —
+there is a pācittiya.
+Exhortation chapter, which is the third
+ 
+The Training Rule about an Almshouse
+One meal from an almshouse may be eaten by a bhikkhu who is not ill.
+If [he] should eat beyond that,
+there is a pācittiya.
+The Training Rule about a Group Meal
+In [eating] a group meal,
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+an occasion of illness,
+a robe giving occasion,
+a robe making occasion,
+an occasion of going on a long journey,
+an occasion of boarding a boat,
+a great occasion,
+an occasion for a meal by a renunciant,
+This is occasion here.
+The Training Rule about an Out-of-turn Meal
+In [eating] an out-of-turn meal,
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+an occasion of illness,
+an occasion of robe-giving,
+an occasion of robe-making.
+This is occasion here.
+The Training Rule about Kāṇa’s Mother
+Should a bhikkhu
+who has approached a family
+be invited with gift cakes or food provision
+to take away,
+two or three bowlfuls may be accepted
+by the bhikkhu who wishes to.
+If [he] should accept
+beyond that,
+there is a pācittiya.
+Having being accepted, the two or three bowlfuls should be taken out from there and shared
+together with the bhikkhus.
+This is proper here.
+The Training Rule about
+Whichever bhikkhu
+who has eaten and refused [further food]
+should chew or eat
+what is chewable or eatable
+that is not leftover
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu
+should knowingly invite a bhikkhu who has eaten and refused [further food]
+with what is chewable or eatable
+that is not leftover
+[saying,] “Come, bhikkhu,
+chew or eat.”
+wishing to find fault,
+upon [it] being eaten,
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu
+should chew or eat
+what is chewable or eatable
+at the wrong time,
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu
+should chew or eat
+what is chewable or eatable
+that is stored up,
+there is a pācittiya.
+The Training Rule about
+Those which are
+fine foods,
+are as follows:
+ghee, fresh butter, oil, honey, molasses/sugar,
+fish, meat, milk, curd.
+Whichever bhikkhu
+who is not ill,
+should, for one’s own benefit,
+ask for and eat such fine foods,
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu
+should bring to the opening of the mouth edibles that are not given
+except water and tooth-sticks
+there is a pācittiya.
+Food chapter, which is the forth
+ 
+The Training Rule about the Naked Ascetic
+Whichever bhikkhu
+should give what is chewable or eatable
+with one's own hand
+to a naked ascetic, a wandering ascetic,
+or a wandering female ascetic,
+there is a pācittiya.
+The Training Rule about Dismissing
+Whichever bhikkhu,
+should say to a bhikkhu, “Come, friend. We shall enter a village or small town for alms,” then — whether having given or not given to him — dismiss [him],
+[saying,] “Go, friend.
+To me, talking or sitting
+together with you
+is not comfortable.
+To me, talking or sitting alone
+is comfortable.
+Having done so for that reason only, not otherwise,
+there is a pācittiya.
+The Training Rule about the Couple
+Whichever bhikkhu
+should sit
+intruding a couple in a house
+there is a pācittiya.
+The Training Rule about what is Private & Concealed
+Whichever bhikkhu
+should sit
+together with womenfolk,
+privately at a concealed sitting place,
+there is a pācittiya.
+The Training Rule about Sitting Privately
+Whichever bhikkhu,
+should sit
+together with a woman,
+— one man with one woman privately —
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+being invited for a meal,
+call upon families
+before meal or after meal, without having informed a bhikkhu who is present,
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+an occasion of robe-giving,
+an occasion of robe-making.
+This is occasion here.
+The Training Rule about
+An invitation for requisites may be consented
+by a bhikkhu who is not ill [only] for four months, except a re-invitation [and] except a perpetual invitation.
+If [he] should consent to more than that,
+there is a pācittiya.
+The Training Rule about
+Whichever bhikkhu
+should go for the sake of seeing
+an army in array
+except for a suitable reason,
+there is a pācittiya.
+The Training Rule about
+And should there be for that bhikkhu
+whatever reason
+for going to an army,
+that bhikkhu
+may stay with the army
+for two or three nights.
+If [he] should stay beyond that,
+there is a pācittiya.
+The Training Rule about
+If a bhikkhu staying
+with the army for two or three nights
+should go to a battlefield,
+a [military] power assessment,
+a military formation, or army inspection there is a pācittiya.
+Naked Ascetic chapter, which is the fifth
+ 
+The Training Rule about Liquor-drinking
+In drinking liquor and wine, there is a pācittiya.
+The Training Rule about Poking with the Fingers
+In poking with the fingers, there is a pācittiya.
+The Training Rule about Fun
+In having fun in the water, there is a pācittiya.
+The Training Rule about Disrespect
+In [showing] disrespect, there is a pācittiya.
+The Training Rule about Frightening
+Whichever bhikkhu
+should frighten a bhikkhu,
+there is a pācittiya.
+The Training Rule about the Fire
+Whichever bhikkhu
+who is not ill, wishing to be warmed,
+should kindle a fire or have it kindled
+except for a suitable reason,
+there is a pācittiya.
+The Training Rule about Bathing
+Whichever bhikkhu
+should bathe before half a month,
+except at the [proper] occasion,
+there is a pācittiya.
+Therein, this is the occasion:
+“the remaining one and a half months of the hot season [months]”, [and] “the first month of the rains”, these two and a half months,
+being a time when it is hot and humid;
+a time of illness,
+a time of work
+a time of going on a long journey,
+a time of wind and rain.
+This is occasion here.
+The Training Rule about Disfigurement
+A bhikkhu
+who gains a new robe
+should apply
+any disfigurement
+of three disfigurements:
+blue/green, mud, or very dark [colour]
+If a bhikkhu without applying
+any disfigurements
+of three disfigurements,
+should make use of a new robe,
+there is a pācittiya.
+The Training Rule about Assigning
+Whichever bhikkhu
+having oneself assign a robe
+to a bhikkhu, a bhikkhuni
+a sikkhamānā,
+a sāmaṇera, or a sāmaṇerī,
+should make use of it unrelinquished, there is a pācittiya.
+The Training Rule about Hiding Away
+Whichever bhikkhu
+should hide away or cause to hide away
+a bhikkhu’s bowl, robe,
+sitting [cloth], needle case,
+or waistband,
+even to the extend of wishing for fun,
+there is a pācittiya. Liquor-drinking chapter which is the sixth
+ 
+The Training Rule about
+Should any bhikkhu
+intentionally deprive
+a being of life,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing that the water contains insects, [???]
+make use of [it]
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing that a case
+has been settled according to the law,
+agitate [its] revival
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing a bhikkhu’s grave offence,
+conceal [it],
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing that a person is less than 20 years [old], ordain [him],
+that person is not ordained
+and those bhikkhus are censurable.
+This for him is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing so, make arrangement with a thief’s caravan,
+and travel [together] on a long journey,
+even to the extend of between villages,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+make arrangement with a woman,
+and travel [together] on a long journey,
+even to the extend of between villages,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu say thus
+“As I understand, the dhamma
+preached by the Blessed One,
+those that are said by the Blessed One
+to be obstructive things
+are not capable of obstruction to one who engages [in them].”
+That bhikkhu should be told thus by the bhikkhus,
+“Do not, venerable, say thus.
+Do not slander the Blessed One.
+Not good indeed is slandering of the Blessed One. The Blessed One would certainly not say thus. In various ways, friend,
+obstructive things
+has been said by the Blessed One to be obstructive,
+and they are capable
+of obstruction to one who engages [in them].”
+Should that bhikkhu, being told thus by the bhikkhus,
+uphold it just as before,
+that bhikkhu should be repeatedly told
+by the bhikkhus up to the third time
+for its surrendering.
+If [he], being repeatedly told up to the third time,
+were to surrender that,
+then that is good.
+If [he] were to not surrender,
+there is a pācittiya.
+The Training Rule about
+Should any bhikkhu,
+knowing so,
+share, have communion,
+or recline in the same lodging together
+with a bhikkhu who speaks in such a way,
+and has not been restored
+[and] not abandoned that view
+there is a pācittiya.
+The Training Rule about
+If even a novice
+should say thus,
+“As I understand, the dhamma
+preached by the Blessed One,
+those that are said by the Blessed One
+to be obstructive things
+are not capable of obstruction to one who engages [in them].”
+That novice should be told thus by the bhikkhus,
+“Do not, friend novice, say thus.
+Do not slander the Blessed One.
+Not good indeed is slandering of the Blessed One. The Blessed One would not certainly say thus.
+In various ways, friend novice,
+obstructive things
+has been said by the Blessed One to be obstructive,
+and they are capable
+of obstruction to one who engages [in them].”
+Should that novice, being told thus by the bhikkhus,
+uphold it just as before,
+that novice should be told thus by the bhikkhus
+“From this day, friend novice,
+the Blessed One should not be pointed out by you as [your] teacher,
+and even
+reclining in a lodging at the same time
+together with bhikkhus for two or three nights
+that other novices get
+is not for you.
+Go away, outsider. Get lost!
+Should any bhikkhu
+knowing so, lure a novice thus expelled,
+cause [him] to minister [oneself],
+share, or recline in the same lodging together with [him], there is a pācittiya.
+chapter, which is the seventh
+ 
+The Training Rule about What is According to Regulation
+Should any bhikkhu,
+being told according to regulation by the bhikkhus,
+say thus,
+“Friend, I shall not
+train myself in that training rule as yet,
+as long as I do not enquire
+another bhikkhu
+who is a competent Vinaya expert.”
+there is a pācittiya.
+Bhikkhus, a bhikkhu who is training himself
+should understand, enquire,
+[and] ponder upon [it]. [???]
+This is proper here.
+The Training Rule about Confusion
+Should any bhikkhu,
+while the Pātimokkha is being recited
+say thus
+“So, for what are these lesser and minor training rules recited?
+[They] only conduce to worry, annoyance, confusion.”
+In disparaging the training rules,
+there is a pācittiya.
+The Training Rule about Deluding
+Should any bhikkhu,
+while the Pātimokkha is being recited
+every half-month
+say thus
+“Only now I know.
+'Tis said that even this dhamma
+is found in the sutta, is included in the sutta,
+[and] come up for recitation
+every half-month.”
+If other bhikkhus
+should know of that bhikkhu
+[thus]: “This bhikkhu
+has previously sat
+for two or three times
+while the Pātimokkha is being recited.
+What to say of more?”
+There is no escape
+for that bhikkhu on account of ignorance;
+that offences that has been committed therein should be dealt with according to the law; Furthermore, delusion should be imposed upon him. [???]
+“Friend, it is no gain for you,
+it is ill-gotten by you,
+in that you,
+while the Pātimokkha is being recited,
+do not properly value [it]
+and pay attention.”
+This for that deluder is a pācittiya.
+The Training Rule about a Blow
+Should any bhikkhu,
+angered, upset,
+give a blow to a bhikkhu
+there is a pācittiya.
+The Training Rule about a Palm like a Spear
+Should any bhikkhu,
+angered, upset,
+raise [his] palm like a spear to a bhikkhu, there is a pācittiya.
+The Training Rule about what is Baseless
+Should any bhikkhu
+slander a bhikkhu
+with a baseless saṅghādisesa,20
+there is a pācittiya.
+The Training Rule about what is Intentional
+Should any bhikkhu,
+intentionally bring about worry to a bhikkhu
+[thinking], “Thus to him, even for a while,
+there will be discomfort.”
+Having done so for that reason only, not otherwise,
+there is a pācittiya.
+The Training Rule about Near the Sound
+Should any bhikkhu,
+stand at an audible proximity of bhikkhus
+who have been quarrelling,
+who have been clashing,
+have engaged in dispute,
+[thinking,] “I shall hear
+what these [bhikkhus] shall say.”
+Having done so for that reason only, not otherwise,
+there is a pācittiya.
+The Training Rule about Dismissing an Act
+Should any bhikkhu,
+in regards to a righteous act,
+give consent and
+later engage in disparagement,
+there is a pācittiya.
+The Training Rule about Going without having Given Consent
+Should any bhikkhu,
+when deliberation is proceeding in the saṅgha, rise from [his] seat and leave
+without having given consent
+there is a pācittiya.
+The Training Rule about One who is Powerless
+Should any bhikkhu,
+having given a robe
+[in company] with a united saṅgha,
+later engage in disparagement,
+[saying,] “The bhikkhus direct gains belonging to the saṅgha according to familiarity.” there is a pācittiya.
+The Training Rule about Directing
+Should any bhikkhu,
+knowing so, direct to an individual
+what is intended to be Saṅgha property,
+there is a pācittiya.
+According-to-regulation chapter,
+which is the eighth
+ 
+The Training Rule about the Harem
+Should any bhikkhu, unannounced beforehand,
+cross over the threshold
+of a head-anointed khattiya king’s [bedchamber] when the king has not departed [and] the [queen-]treasure has not gone out [from it], there is a pācittiya.
+The Training Rule about a Jewel
+Should any bhikkhu, pick up or cause to pick up
+a jewel or
+what is agreed upon as jewel,
+except from within a monastery
+or from within a residence,
+there is a pācittiya.
+A jewel or what is agreed upon as jewel
+within a monastery or within a residence,
+should be picked up or caused to be picked up
+and set aside
+by a bhikkhu.
+“To whom it may belong,
+he will take [it] away.”
+This is proper here.
+The Training Rule about Entering the Village at the Wrong Time
+Should any bhikkhu, enter the village at the wrong time
+without having inform
+an bhikkhu who is present
+except for such
+urgent business
+there is a pācittiya.
+The Training Rule about a Needle Case
+Should any bhikkhu, have a needle case
+of bone,
+of ivory,
+or of horn made
+there is a pācittiya [entailing] breaking [it] up
+The Training Rule about the Bed and the Couch
+A bhikkhu having a new
+bed or couch made
+should have it made with legs of eight finger-breadth [high]
+going by sugata-finger-breadth
+excluding the lower frame.
+For one who exceeds that,
+there is a pācittiya [entailing] cutting [it] down.
+The Training Rule about what is Bound with Cotton
+Should any bhikkhu, have a bed or couch
+bound with cotton made
+there is a pācittiya [entailing] removing [the cotton].
+The Training Rule about the Sitting Cloth
+A bhikkhu having a sitting cloth made
+should have it made to a limit.
+Therein this is the limit:
+in length, two spans, going by sugata-span;
+across, one and a half;
+the border, a span.
+For one who exceeds that,
+there is a pācittiya [entailing] cutting [it] down.
+The Training Rule about the Itch-covering Cloth
+A bhikkhu having
+an itch-covering cloth made
+should have it made to a limit.
+Therein this is the limit:
+in length, four spans, going by sugata-span;
+across, two spans.
+For one who exceeds that,
+there is a pācittiya [entailing] cutting [it] down.
+The Training Rule about the Rains Sarong
+A bhikkhu having
+a rains sarong made
+should have it made to a limit.
+Therein this is the limit:
+in length, six spans, going by sugata-span;
+across, two and a half.
+For one who exceeds that,
+there is a pācittiya [entailing] cutting [it] down.
+The Training Rule about Nanda
+Should any bhikkhu have a robe made
+to the sugata-robe measurement or exceed [it]
+there is a pācittiya [entailing] cutting [it] down.
+Therein this is the sugata’s
+sugata-robe measurement:
+in length, nine spans, going by sugata-span;
+across, six spans.
+This is the sugata’s
+sugata-robe measurement.
+
+Jewel chapter, which is the ninth
+
+
+Recited, venerables,
+are the ninety-two pācittiya matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Pācittiyas have ended.
+ 
+#+end_src
+
+* Patid
+#+begin_src txt :tangle yes
+Pāṭidesanīyas
+Now, venerables, the four pāṭidesanīya21 matters come up for recitation.
+First Pāṭidesanīya Training Rule
+Whichever bhikkhu,
+should accept with one’s own hand
+what is chewable or eatable
+from the hand of an unrelated bhikkhunī
+who has entered ‘among houses’,
+and chew or eat [it],
+[it] should be confessed by that bhikkhu, “Friend, I committed
+a censurable thing
+which is unsuitable [and] is a pāṭidesanīya.
+I confess that.”
+Second Pāṭidesanīya Training Rule
+Bhikkhus who have been invited are eating in [houses of] families.
+If there is this bhikkhunī standing there in the manner of giving orders
+[saying], “Give this bean curry,
+give this rice.”
+That bhikkhunī should be dismissed
+by the bhikkhus,
+“Move aside, sister,
+while the bhikkhus eat.”
+If it does not occur
+to even one bhikkhu
+to dismiss the bhikkhunī,
+“Move aside, sister,
+while the bhikkhus eat.”
+[it] should be confessed by those bhikkhus, “Friend, we committed
+a censurable thing
+which is unsuitable [and] is a pāṭidesanīya.
+We confess that.”
+Third Pāṭidesanīya Training Rule
+There are those
+families that are regarded as trainees.
+Whichever bhikkhu,
+previously uninvited, not being ill,
+should accept with one’s own hand
+what is chewable or eatable,
+in such families that are reckoned as trainees,
+and chew or eat [it],
+[it] is to be confessed by that bhikkhu,
+“Friend, I committed
+a censurable thing
+which is unsuitable [and] is a pāṭidesanīya.
+I confess that.”
+Fourth Pāṭidesanīya Training Rule
+There are those forest abodes
+that are regarded as suspicious, fearful.
+Whichever bhikkhu living in such abodes,
+should accepted by hand in the monastery
+what is chewable or eatable
+that is unannounced beforehand,
+and, not being ill, chew or eat [it],
+[it] is to be confessed by that bhikkhu,
+“Friend, I committed
+a censurable thing
+which is unsuitable [and] is a pāṭidesanīya.
+I confess that.”
+
+
+Recited, venerables,
+are the four pāṭidesanīyā matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Pāṭidesanīyas have ended.
+ 
+#+end_src
+
+* sekh
+#+begin_src txt :tangle yes
+Sekhiyas
+Now, venerables, the sekhiya22 matters come up for recitation.
+
+“I shall wear [the under robe] round on all sides” is a training to be done.
+“I shall wear [the upper robe] round on all sides” is a training to be done.
+
+“I shall go ‘among houses’23 well covered” is a training to be done.
+“I shall sit ‘among houses’ well covered” is a training to be done.
+
+“I shall go ‘among houses’ well restrained” is a training to be done.
+“I shall sit ‘among houses’ well restrained” is a training to be done.
+
+“I shall go ‘among houses’ with lowered eyes” is a training to be done.
+“I shall sit ‘among houses’ with lowered eyes” is a training to be done.
+
+“I shall not go ‘among houses’ with [the robes] hitched up” is a training to be done.
+“I shall not sit ‘among houses’ with [the robes] hitched up” is a training to be done.
+
+
+“I shall not go ‘among houses’ guffawing” is a training to be done.
+“I shall not sit ‘among houses’ guffawing” is a training to be done.
+
+“I shall go ‘among houses’ with little noise24” is a training to be done.
+“I shall sit ‘among houses’ with little noise” is a training to be done.
+
+“I shall not go ‘among houses’ shaking the body” is a training to be done.
+“I shall not sit ‘among houses’ shaking the body” is a training to be done.
+
+“I shall not go ‘among houses’ shaking the arms” is a training to be done.
+“I shall not sit ‘among houses’ shaking the arms” is a training to be done.
+
+“I shall not go ‘among houses’ shaking the head” is a training to be done.
+“I shall not sit ‘among houses’ shaking the head” is a training to be done.
+
+
+“I shall not go ‘among houses’ with arms akimbo” is a training to be done.
+“I shall not sit ‘among houses’ with arms akimbo” is a training to be done.
+
+“I shall not go ‘among houses’ with a covered head” is a training to be done.
+“I shall not sit ‘among houses’ with a covered head” is a training to be done.
+
+“I shall not go ‘among houses’ walking on toes or heals [only]” is a training to be done.
+
+“I shall not sit ‘among houses’ with held up knees” is a training to be done.
+
+“I shall accept alms food respectfully” is a training to be done.
+
+“I shall accept alms food conscious of the bowl” is a training to be done.
+
+“I shall accept alms food with dhal in proportion” is a training to be done.
+
+“I shall accept alms food level with the edge [of the bowl]” is a training to be done.
+
+
+“I shall eat alms food respectfully” is a training to be done.
+
+“I shall eat alms food conscious of the bowl” is a training to be done.
+
+“I shall eat alms food in sequence” is a training to be done.
+
+“I shall eat alms food with dhal in proportion” is a training to be done.
+“I shall not eat alms food from a heap having pressed it down” is a training to be done.
+
+“I shall not conceal dhal or other dishes with rice out of desire for more” is a training to be done.
+
+“Not being ill, I shall not for one’s own benefit, ask for and eat dhal or rice25” is a training to be done.
+
+“I shall not look into another’s bowl thinking of finding fault” is a training to be done.
+
+“I shall not make too large a mouthful” is a training to be done.
+
+“I shall make a lump of food round on all sides” is a training to be done.
+
+
+“I shall not open the mouth when the mouthful has not been brought [to it]” is a training to be done.
+
+“I shall not put the whole hand into the mouth while eating”26 is a training to be done.
+
+“I shall not talk with the mouth having a mouthful” is a training to be done.
+
+“I shall not eat from lifted lumps of food” is a training to be done.
+
+“I shall not eat biting off the mouthful” is a training to be done.
+
+“I shall not eat puffing out the cheeks” is a training to be done.
+
+“I shall not eat shaking [food] off the hand” is a training to be done.
+
+“I shall not eat scattering grains of boiled rice” is a training to be done.
+
+“I shall not eat sticking out the tongue” is a training to be done.
+
+“I shall not eat making a chomping sound” is a training to be done.
+
+
+“I shall not eat making a slurping sound” is a training to be done.
+
+“I shall not eat licking the hand” is a training to be done.
+
+“I shall not eat licking the bowl” is a training to be done.
+
+“I shall not eat licking the lips” is a training to be done.
+
+“I shall not accept a drinking vessel with a hand [smeared] with food” is a training to be done.
+
+“I shall not throw away bowl-washing [water] with grains of rice ‘among houses’” is a training to be done.
+
+“I shall not preach the Dhamma to one with an umbrella in his hand and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one with a staff in his hand and not ill” is a training to be done.“
+
+“I shall not preach the Dhamma to one with a knife in his hand and not ill” is a training to be done.“
+
+“I shall not preach the Dhamma to one with a weapon in his hand and not ill” is a training to be done.
+
+
+“I shall not preach the Dhamma to one mounted on slippers and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one mounted on sandals and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one in a vehicle and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one lying down and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one sitting with held up knees and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one with the head wrapped up and not ill” is a training to be done.
+
+“I shall not preach the Dhamma to one with a covered head and not ill” is a training to be done.
+
+“I shall not, while sitting on the ground, preach the Dhamma to one seated on a seat and not ill” is a training to be done.
+
+“I shall not, while sitting on a low seat, preach the Dhamma to one seated on a high seat and not ill” is a training to be done.
+
+“I shall not, while standing, preach the Dhamma to one who is seated and not ill” is a training to be done.
+
+“I shall not, while going behind, preach the Dhamma to one going in front and not ill” is a training to be done.
+
+“I shall not, while going beside the path, preach the Dhamma to one going on the road and not ill” is a training to be done.
+
+“I shall not, while standing and not [being] ill, defecate or urinate” is a training to be done.
+
+“I shall not, while not [being] ill, defecate or urinate, or spit on green plants” is a training to be done.
+
+“I shall not, while not ill, pass motion or urine, or spit into water” is a training to be done.
+
+
+
+Recited, venerables,
+are the sekhiya matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Sekhiyas have ended.
+ 
+#+end_src
+
+* adhikaranasamatha
+Adhikaraṇasamathas
+Now, venerables, the seven adhikaraṇasamatha27 matters come up for recitation.
+For the settlement, for the stilling
+of cases, whenever they have arisen,
+a verdict “in the presence of” may be given,
+a verdict of mindfulness may be given,
+a verdict at the time of non-insanity may be given,
+it may be dealt with according to what is admitted,
+[a decision] according to majority [may be given],
+[a penalty may be given] to one for his further evil,
+a “covering with grass” decision [may be given].
+
+Recited, venerables,
+are the seven adhikaraṇasamatha matters.
+Therein, I ask the venerables, "Now then, are you pure in this?" For the second time, I ask, "Now then, are you pure in this?" For the third time, I ask, "Now then, are you pure in this?" The venerables are pure in this, therefore are silent; thus do I bear that in mind.
+The Adhikaraṇasamathas have ended.
+ 
+
+Recited, venerables, is the nidāna.
+Recited are the four pārājika rules.
+Recited are the thirteen saṅghādisesa rules.
+Recited are the two aniyata rules.
+Heard by the venerables are the thirty nissaggiya pācittiya rules. Heard are the ninety-two pācittiya rules.
+Heard are the four pāṭidesanīya rules. Heard are the sekhiya rules. Heard are the seven adhikaraṇasamatha rules.
+This much is the Blessed One’s [set of training rules] found in the sutta, included in the sutta, [and] come up for recitation
+every half-month.
+Therein, it should be practiced by all in unity, joyfully, without dispute.
+The Aniyatuddesa has ended.
+
+
+Recited, venerables, is the nidāna.
+Recited are the four pārājika rules.
+Recited are the thirteen saṅghādisesa rules.
+Recited are the two aniyata rules.
+Recited are the thirty nissaggiya pācittiya rules. Recited are the ninety-two pācittiya rules.
+Recited are the four pāṭidesanīya rules.
+Recited are the sekhiya rules.
+Recited are the seven adhikaraṇasamatha rules.
+This much is the Blessed One’s [set of training rules] found in the sutta, included in the sutta, [and] come up for recitation
+every half-month.
+Therein, it should be practiced by all in unity, joyfully, without dispute.
+The Vitthāruddesa has ended.
+    
