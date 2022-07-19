@@ -19,7 +19,7 @@ RELEASENAME   := "Chaṭṭha Saṅgāyana Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Chaṭṭha\ Saṅgāyana\ Bhikkhupātimokkha.epub
+EPUBFILE      := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.epub
 KINDLEFILE    := ./build/Chaṭṭha\ Saṅgāyana\ Bhikkhupātimokkha.mobi
 AZW3FILE      := ./build/Chaṭṭha\ Saṅgāyana\ Bhikkhupātimokkha.azw3
 
