@@ -19,9 +19,9 @@ RELEASENAME   := "Chaṭṭha Saṅgāyana Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.azw3
+EPUBFILE      := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.epub
+KINDLEFILE    := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.mobi
+AZW3FILE      := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -50,8 +50,9 @@ XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
 #-----------------------------------------------------------------------------------------#
 
+.PHONY: all test clean
 
-all: document
+all: pdf2x mobi epub azw3
 
 
 #-----------------------------------------------------------------------------------------#
@@ -226,7 +227,7 @@ clean:
 	rm -f "$(AZW3FILE)"
 	rm -f "$(IBOOKSFILE)"
 	@# only remove dir if it's empty:
-	@(rmdir `dirname $(EPUBFILE)`; exit 0)
+	@(rm -fd $(dirname $(EPUBFILE)) || true)
 
 
 #-----------------------------------------------------------------------------------------#
