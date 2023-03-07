@@ -16,10 +16,6 @@ tool. To do so run `act` at root of the repository with a trigger name
 act push -v
 ```
 
+__Note__: Upload job will normally failed on such a local run.
+
 The `-v` key for verbose output.
-
-
-## TODO
-
-- make validate
-- make optimize
