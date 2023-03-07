@@ -19,10 +19,10 @@ jobs:
           cat .git/refs/heads/main
       - name: Build PDF
         run: make pdf2x
-      - name: Build Mobipocket
-        run: make pdf2x
       - name: Build EPUB
         run: make epub
+      - name: Build Mobipocket
+        run: make mobi
       - name: Build AZW3
         run: make azw3
       - name: Validate EPUB
