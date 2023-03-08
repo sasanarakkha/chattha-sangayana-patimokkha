@@ -33,8 +33,9 @@ jobs:
         continue-on-error: true
       - name: Normalize filenames
         run: |
+          for f in build/*; do mv "$f" "$(python3 -m unidecode -c "$f")"; done
           rename --verbose --filename 's/\\//g' build/*
-          rename --verbose --filename 's/\s/-/g' build/*
+          rename --verbose --filename 's/\s/_/g' build/*
       - name: Generate release tag
         id: tag
         run: |
