@@ -19,9 +19,10 @@ RELEASENAME   := "Chaṭṭha Saṅgāyana Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.azw3
+BUILDDIR      := ./build/
+EPUBFILE      := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.epub
+KINDLEFILE    := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.mobi
+AZW3FILE      := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
@@ -69,8 +70,8 @@ pdf:
 	@echo "Tangling org document..."
 	@org-tangle ./chattha-sangayana-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
+	@mkdir -p "$(BUILDDIR)"
+	mv -f $(FILE).pdf "$(BUILDDIR)/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -82,8 +83,8 @@ pdf2x:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
+	@mkdir -p "$(BUILDDIR)"
+	mv -f $(FILE).pdf "$(BUILDDIR)/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -220,12 +221,8 @@ else
 endif
 
 clean:
-	@echo Removing built EPUB/KEPUB/Kindle files...
-	rm -f "$(EPUBFILE)"
-	rm -f "$(KEPUBFILE)"
-	rm -f "$(KINDLEFILE)"
-	rm -f "$(AZW3FILE)"
-	rm -f "$(IBOOKSFILE)"
+	@echo Removing artifacts...
+	rm -f "$(BUILDDIR)/"*.mobi "$(BUILDDIR)/"*.epub "$(BUILDDIR)/"*.pdf "$(BUILDDIR)/"*.azw3
 	@# only remove dir if it's empty:
 	@(rm -fd $(dirname $(EPUBFILE)) || true)
 
