@@ -5,12 +5,13 @@ name: Build documents
   push:
     branches:
       - main
-      - composite-action # TODO Delete
 
 jobs:
   build:
     runs-on: ubuntu-latest
     container: bergentroll/pali-english-recitations-builder:latest
+    permissions:
+      contents: write
     steps:
       - uses: bergentroll/sasanarakkha-build-ebooks-action@v1
         with: {}
