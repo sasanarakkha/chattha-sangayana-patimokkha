@@ -224,7 +224,7 @@ clean:
 	@echo Removing artifacts...
 	rm -f "$(BUILDDIR)/"*.mobi "$(BUILDDIR)/"*.epub "$(BUILDDIR)/"*.pdf "$(BUILDDIR)/"*.azw3
 	@# only remove dir if it's empty:
-	@(rm -fd $(dirname $(EPUBFILE)) || true)
+	@(rm -fd "$(BUILDDIR)" || true)
 
 
 #-----------------------------------------------------------------------------------------#
