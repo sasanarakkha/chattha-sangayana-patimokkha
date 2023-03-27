@@ -19,16 +19,17 @@ RELEASENAME   := "Chaṭṭha Saṅgāyana Bhikkhupātimokkha"
 CURRENTEPUB   := ./manuscript/current-patimokkha.epub
 SOURCE        := ./manuscript/
 EXTRACTSOURCE := ./
-EPUBFILE      := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.epub
-KINDLEFILE    := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.mobi
-AZW3FILE      := ./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.azw3
+BUILDDIR      := ./build/
+EPUBFILE      := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.epub
+KINDLEFILE    := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.mobi
+AZW3FILE      := $(BUILDDIR)/Chaṭṭha_Saṅgāyana_Bhikkhupātimokkha.azw3
 
 
 EPUBCHECK := ./assets/tools/epubcheck/epubcheck.jar
 KINDLEGEN := ./assets/tools/kindlegen
 
 
-EBOOKEDITOR  := $(shell command -v sigil  2>&1 || nixGL sigil 2>&1)
+EBOOKEDITOR  := $(shell command -v sigil  2>&1 || command -v nixGL && nixGL sigil 2>&1)
 EBOOKPOLISH  := $(shell command -v ebook-polish 2>&1)
 EBOOKVIEWER  := $(shell command -v ebook-viewer 2>&1)
 EBOOKCONVERT := $(shell command -v ebook-convert 2>&1)
@@ -50,8 +51,9 @@ XHTMLFILES  := $(shell find $(SOURCE) -name '*.xhtml' 2> /dev/null | sort)
 
 #-----------------------------------------------------------------------------------------#
 
+.PHONY: all test clean
 
-all: document
+all: pdf2x mobi epub azw3
 
 
 #-----------------------------------------------------------------------------------------#
@@ -68,8 +70,8 @@ pdf:
 	@echo "Tangling org document..."
 	@org-tangle ./chattha-sangayana-patimokkha.tex.org
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
+	@mkdir -p "$(BUILDDIR)"
+	mv -f $(FILE).pdf "$(BUILDDIR)/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -81,8 +83,8 @@ pdf2x:
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
 	@echo "Second run..."
 	$(LATEX) $(LATEX_OPTS) $(FILE).tex;
-	@mkdir -p ./build
-	mv -f $(FILE).pdf "./build/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
+	@mkdir -p "$(BUILDDIR)"
+	mv -f $(FILE).pdf "$(BUILDDIR)/Chaṭṭha Saṅgāyana Bhikkhupātimokkha.pdf"
 
 
 #-----------------------------------------------------------------------------------------#
@@ -215,18 +217,14 @@ ifndef EBOOKEDITOR
 	@echo "Error: Sigil was not found. Unable to edit ebook."
 	@exit 1
 else
-	@ nixGL sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
+	@nixGL sigil "$(CURRENTEPUB)" || sigil "$(CURRENTEPUB)"
 endif
 
 clean:
-	@echo Removing built EPUB/KEPUB/Kindle files...
-	rm -f "$(EPUBFILE)"
-	rm -f "$(KEPUBFILE)"
-	rm -f "$(KINDLEFILE)"
-	rm -f "$(AZW3FILE)"
-	rm -f "$(IBOOKSFILE)"
+	@echo Removing artifacts...
+	rm -f "$(BUILDDIR)/"*.mobi "$(BUILDDIR)/"*.epub "$(BUILDDIR)/"*.pdf "$(BUILDDIR)/"*.azw3
 	@# only remove dir if it's empty:
-	@(rmdir `dirname $(EPUBFILE)`; exit 0)
+	@(rm -fd "$(BUILDDIR)" || true)
 
 
 #-----------------------------------------------------------------------------------------#
